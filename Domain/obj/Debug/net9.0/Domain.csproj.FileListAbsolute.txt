@@ -1,0 +1,12 @@
+E:\Projects\Clinic\Domain\bin\Debug\net9.0\Domain.deps.json
+E:\Projects\Clinic\Domain\bin\Debug\net9.0\Domain.dll
+E:\Projects\Clinic\Domain\bin\Debug\net9.0\Domain.pdb
+E:\Projects\Clinic\Domain\obj\Debug\net9.0\Domain.csproj.AssemblyReference.cache
+E:\Projects\Clinic\Domain\obj\Debug\net9.0\Domain.GeneratedMSBuildEditorConfig.editorconfig
+E:\Projects\Clinic\Domain\obj\Debug\net9.0\Domain.AssemblyInfoInputs.cache
+E:\Projects\Clinic\Domain\obj\Debug\net9.0\Domain.AssemblyInfo.cs
+E:\Projects\Clinic\Domain\obj\Debug\net9.0\Domain.csproj.CoreCompileInputs.cache
+E:\Projects\Clinic\Domain\obj\Debug\net9.0\Domain.dll
+E:\Projects\Clinic\Domain\obj\Debug\net9.0\refint\Domain.dll
+E:\Projects\Clinic\Domain\obj\Debug\net9.0\Domain.pdb
+E:\Projects\Clinic\Domain\obj\Debug\net9.0\ref\Domain.dll

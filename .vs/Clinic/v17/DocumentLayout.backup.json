@@ -1,0 +1,552 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\Projects\\Clinic\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{82CCDFCE-A040-461D-BBF4-9BAFFC606724}|Infrastructure\\Infrastructure.csproj|e:\\projects\\clinic\\infrastructure\\seeding\\defaultroles.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{82CCDFCE-A040-461D-BBF4-9BAFFC606724}|Infrastructure\\Infrastructure.csproj|solutionrelative:infrastructure\\seeding\\defaultroles.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{97B7CE5F-1599-408B-93FE-A1D5D1F77A4F}|Clinic\\Clinic.csproj|e:\\projects\\clinic\\clinic\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{97B7CE5F-1599-408B-93FE-A1D5D1F77A4F}|Clinic\\Clinic.csproj|solutionrelative:clinic\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8252FC65-6A4D-41A9-8134-1B434344D545}|Domain\\Domain.csproj|e:\\projects\\clinic\\domain\\entities\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8252FC65-6A4D-41A9-8134-1B434344D545}|Domain\\Domain.csproj|solutionrelative:domain\\entities\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{97B7CE5F-1599-408B-93FE-A1D5D1F77A4F}|Clinic\\Clinic.csproj|e:\\projects\\clinic\\clinic\\controllers\\oauthcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{97B7CE5F-1599-408B-93FE-A1D5D1F77A4F}|Clinic\\Clinic.csproj|solutionrelative:clinic\\controllers\\oauthcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{97B7CE5F-1599-408B-93FE-A1D5D1F77A4F}|Clinic\\Clinic.csproj|e:\\projects\\clinic\\clinic\\controllers\\apicontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{97B7CE5F-1599-408B-93FE-A1D5D1F77A4F}|Clinic\\Clinic.csproj|solutionrelative:clinic\\controllers\\apicontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{82CCDFCE-A040-461D-BBF4-9BAFFC606724}|Infrastructure\\Infrastructure.csproj|e:\\projects\\clinic\\infrastructure\\extentionmethods\\servicecollectionextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{82CCDFCE-A040-461D-BBF4-9BAFFC606724}|Infrastructure\\Infrastructure.csproj|solutionrelative:infrastructure\\extentionmethods\\servicecollectionextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{82CCDFCE-A040-461D-BBF4-9BAFFC606724}|Infrastructure\\Infrastructure.csproj|e:\\projects\\clinic\\infrastructure\\services\\oauthservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{82CCDFCE-A040-461D-BBF4-9BAFFC606724}|Infrastructure\\Infrastructure.csproj|solutionrelative:infrastructure\\services\\oauthservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{82CCDFCE-A040-461D-BBF4-9BAFFC606724}|Infrastructure\\Infrastructure.csproj|e:\\projects\\clinic\\infrastructure\\services\\accountservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{82CCDFCE-A040-461D-BBF4-9BAFFC606724}|Infrastructure\\Infrastructure.csproj|solutionrelative:infrastructure\\services\\accountservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ED62C01B-FC13-446C-A21A-51476EB6E15B}|Application\\Application.csproj|e:\\projects\\clinic\\application\\interfaces\\ioauthservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ED62C01B-FC13-446C-A21A-51476EB6E15B}|Application\\Application.csproj|solutionrelative:application\\interfaces\\ioauthservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{97B7CE5F-1599-408B-93FE-A1D5D1F77A4F}|Clinic\\Clinic.csproj|e:\\projects\\clinic\\clinic\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{97B7CE5F-1599-408B-93FE-A1D5D1F77A4F}|Clinic\\Clinic.csproj|solutionrelative:clinic\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{82CCDFCE-A040-461D-BBF4-9BAFFC606724}|Infrastructure\\Infrastructure.csproj|e:\\projects\\clinic\\infrastructure\\services\\cloudinaryservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{82CCDFCE-A040-461D-BBF4-9BAFFC606724}|Infrastructure\\Infrastructure.csproj|solutionrelative:infrastructure\\services\\cloudinaryservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ED62C01B-FC13-446C-A21A-51476EB6E15B}|Application\\Application.csproj|e:\\projects\\clinic\\application\\dtos\\logindto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ED62C01B-FC13-446C-A21A-51476EB6E15B}|Application\\Application.csproj|solutionrelative:application\\dtos\\logindto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ED62C01B-FC13-446C-A21A-51476EB6E15B}|Application\\Application.csproj|e:\\projects\\clinic\\application\\dtos\\resetpassworddto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ED62C01B-FC13-446C-A21A-51476EB6E15B}|Application\\Application.csproj|solutionrelative:application\\dtos\\resetpassworddto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ED62C01B-FC13-446C-A21A-51476EB6E15B}|Application\\Application.csproj|e:\\projects\\clinic\\application\\dtos\\forgotpassworddto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ED62C01B-FC13-446C-A21A-51476EB6E15B}|Application\\Application.csproj|solutionrelative:application\\dtos\\forgotpassworddto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ED62C01B-FC13-446C-A21A-51476EB6E15B}|Application\\Application.csproj|e:\\projects\\clinic\\application\\dtos\\addtoroledto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ED62C01B-FC13-446C-A21A-51476EB6E15B}|Application\\Application.csproj|solutionrelative:application\\dtos\\addtoroledto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{82CCDFCE-A040-461D-BBF4-9BAFFC606724}|Infrastructure\\Infrastructure.csproj|e:\\projects\\clinic\\infrastructure\\validation\\auth\\addtoroledtovalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{82CCDFCE-A040-461D-BBF4-9BAFFC606724}|Infrastructure\\Infrastructure.csproj|solutionrelative:infrastructure\\validation\\auth\\addtoroledtovalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{82CCDFCE-A040-461D-BBF4-9BAFFC606724}|Infrastructure\\Infrastructure.csproj|e:\\projects\\clinic\\infrastructure\\validation\\auth\\forgotpassworddtovalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{82CCDFCE-A040-461D-BBF4-9BAFFC606724}|Infrastructure\\Infrastructure.csproj|solutionrelative:infrastructure\\validation\\auth\\forgotpassworddtovalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ED62C01B-FC13-446C-A21A-51476EB6E15B}|Application\\Application.csproj|e:\\projects\\clinic\\application\\dtos\\registerdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ED62C01B-FC13-446C-A21A-51476EB6E15B}|Application\\Application.csproj|solutionrelative:application\\dtos\\registerdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{82CCDFCE-A040-461D-BBF4-9BAFFC606724}|Infrastructure\\Infrastructure.csproj|e:\\projects\\clinic\\infrastructure\\validation\\auth\\resetpassworddtovalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{82CCDFCE-A040-461D-BBF4-9BAFFC606724}|Infrastructure\\Infrastructure.csproj|solutionrelative:infrastructure\\validation\\auth\\resetpassworddtovalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{82CCDFCE-A040-461D-BBF4-9BAFFC606724}|Infrastructure\\Infrastructure.csproj|e:\\projects\\clinic\\infrastructure\\validation\\auth\\logindtovalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{82CCDFCE-A040-461D-BBF4-9BAFFC606724}|Infrastructure\\Infrastructure.csproj|solutionrelative:infrastructure\\validation\\auth\\logindtovalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{82CCDFCE-A040-461D-BBF4-9BAFFC606724}|Infrastructure\\Infrastructure.csproj|e:\\projects\\clinic\\infrastructure\\validation\\auth\\registerdtovalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{82CCDFCE-A040-461D-BBF4-9BAFFC606724}|Infrastructure\\Infrastructure.csproj|solutionrelative:infrastructure\\validation\\auth\\registerdtovalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{82CCDFCE-A040-461D-BBF4-9BAFFC606724}|Infrastructure\\Infrastructure.csproj|e:\\projects\\clinic\\infrastructure\\infrastructure.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{82CCDFCE-A040-461D-BBF4-9BAFFC606724}|Infrastructure\\Infrastructure.csproj|solutionrelative:infrastructure\\infrastructure.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ED62C01B-FC13-446C-A21A-51476EB6E15B}|Application\\Application.csproj|e:\\projects\\clinic\\application\\application.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{ED62C01B-FC13-446C-A21A-51476EB6E15B}|Application\\Application.csproj|solutionrelative:application\\application.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{97B7CE5F-1599-408B-93FE-A1D5D1F77A4F}|Clinic\\Clinic.csproj|e:\\projects\\clinic\\clinic\\clinic.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{97B7CE5F-1599-408B-93FE-A1D5D1F77A4F}|Clinic\\Clinic.csproj|solutionrelative:clinic\\clinic.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ED62C01B-FC13-446C-A21A-51476EB6E15B}|Application\\Application.csproj|e:\\projects\\clinic\\application\\interfaces\\iaccountservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ED62C01B-FC13-446C-A21A-51476EB6E15B}|Application\\Application.csproj|solutionrelative:application\\interfaces\\iaccountservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{82CCDFCE-A040-461D-BBF4-9BAFFC606724}|Infrastructure\\Infrastructure.csproj|e:\\projects\\clinic\\infrastructure\\services\\jwt.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{82CCDFCE-A040-461D-BBF4-9BAFFC606724}|Infrastructure\\Infrastructure.csproj|solutionrelative:infrastructure\\services\\jwt.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ED62C01B-FC13-446C-A21A-51476EB6E15B}|Application\\Application.csproj|e:\\projects\\clinic\\application\\interfaces\\ijwt.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ED62C01B-FC13-446C-A21A-51476EB6E15B}|Application\\Application.csproj|solutionrelative:application\\interfaces\\ijwt.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8252FC65-6A4D-41A9-8134-1B434344D545}|Domain\\Domain.csproj|e:\\projects\\clinic\\domain\\enums\\roles.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8252FC65-6A4D-41A9-8134-1B434344D545}|Domain\\Domain.csproj|solutionrelative:domain\\enums\\roles.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ED62C01B-FC13-446C-A21A-51476EB6E15B}|Application\\Application.csproj|e:\\projects\\clinic\\application\\helpers\\currentuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ED62C01B-FC13-446C-A21A-51476EB6E15B}|Application\\Application.csproj|solutionrelative:application\\helpers\\currentuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{97B7CE5F-1599-408B-93FE-A1D5D1F77A4F}|Clinic\\Clinic.csproj|e:\\projects\\clinic\\clinic\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{97B7CE5F-1599-408B-93FE-A1D5D1F77A4F}|Clinic\\Clinic.csproj|solutionrelative:clinic\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8252FC65-6A4D-41A9-8134-1B434344D545}|Domain\\Domain.csproj|e:\\projects\\clinic\\domain\\enums\\gender.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8252FC65-6A4D-41A9-8134-1B434344D545}|Domain\\Domain.csproj|solutionrelative:domain\\enums\\gender.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Yousef_zydan\\Downloads\\client_secret_89494658888-mv71d0kbk9us90i9262615hjc63blis8.apps.googleusercontent.com.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 660,
+          "SelectedChildIndex": 15,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{0ad07096-bba9-4900-a651-0598d26f6d24}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "AddToRoleDtoValidator.cs",
+              "DocumentMoniker": "E:\\Projects\\Clinic\\Infrastructure\\Validation\\Auth\\AddToRoleDtoValidator.cs",
+              "RelativeDocumentMoniker": "Infrastructure\\Validation\\Auth\\AddToRoleDtoValidator.cs",
+              "ToolTip": "E:\\Projects\\Clinic\\Infrastructure\\Validation\\Auth\\AddToRoleDtoValidator.cs",
+              "RelativeToolTip": "Infrastructure\\Validation\\Auth\\AddToRoleDtoValidator.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAABAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-24T01:07:17.951Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "ForgotPasswordDtoValidator.cs",
+              "DocumentMoniker": "E:\\Projects\\Clinic\\Infrastructure\\Validation\\Auth\\ForgotPasswordDtoValidator.cs",
+              "RelativeDocumentMoniker": "Infrastructure\\Validation\\Auth\\ForgotPasswordDtoValidator.cs",
+              "ToolTip": "E:\\Projects\\Clinic\\Infrastructure\\Validation\\Auth\\ForgotPasswordDtoValidator.cs",
+              "RelativeToolTip": "Infrastructure\\Validation\\Auth\\ForgotPasswordDtoValidator.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-24T01:05:24.376Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "ResetPasswordDtoValidator.cs",
+              "DocumentMoniker": "E:\\Projects\\Clinic\\Infrastructure\\Validation\\Auth\\ResetPasswordDtoValidator.cs",
+              "RelativeDocumentMoniker": "Infrastructure\\Validation\\Auth\\ResetPasswordDtoValidator.cs",
+              "ToolTip": "E:\\Projects\\Clinic\\Infrastructure\\Validation\\Auth\\ResetPasswordDtoValidator.cs",
+              "RelativeToolTip": "Infrastructure\\Validation\\Auth\\ResetPasswordDtoValidator.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAABGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-24T01:03:48.849Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "ResetPasswordDto.cs",
+              "DocumentMoniker": "E:\\Projects\\Clinic\\Application\\Dtos\\ResetPasswordDto.cs",
+              "RelativeDocumentMoniker": "Application\\Dtos\\ResetPasswordDto.cs",
+              "ToolTip": "E:\\Projects\\Clinic\\Application\\Dtos\\ResetPasswordDto.cs",
+              "RelativeToolTip": "Application\\Dtos\\ResetPasswordDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAwAAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-24T01:03:04.412Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "ForgotPasswordDto.cs",
+              "DocumentMoniker": "E:\\Projects\\Clinic\\Application\\Dtos\\ForgotPasswordDto.cs",
+              "RelativeDocumentMoniker": "Application\\Dtos\\ForgotPasswordDto.cs",
+              "ToolTip": "E:\\Projects\\Clinic\\Application\\Dtos\\ForgotPasswordDto.cs",
+              "RelativeToolTip": "Application\\Dtos\\ForgotPasswordDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAYAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-24T01:02:54.626Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "User.cs",
+              "DocumentMoniker": "E:\\Projects\\Clinic\\Domain\\Entities\\User.cs",
+              "RelativeDocumentMoniker": "Domain\\Entities\\User.cs",
+              "ToolTip": "E:\\Projects\\Clinic\\Domain\\Entities\\User.cs",
+              "RelativeToolTip": "Domain\\Entities\\User.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-24T00:56:22.348Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "LoginDto.cs",
+              "DocumentMoniker": "E:\\Projects\\Clinic\\Application\\Dtos\\LoginDto.cs",
+              "RelativeDocumentMoniker": "Application\\Dtos\\LoginDto.cs",
+              "ToolTip": "E:\\Projects\\Clinic\\Application\\Dtos\\LoginDto.cs",
+              "RelativeToolTip": "Application\\Dtos\\LoginDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAgAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-24T00:39:48.646Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "RegisterDto.cs",
+              "DocumentMoniker": "E:\\Projects\\Clinic\\Application\\Dtos\\RegisterDto.cs",
+              "RelativeDocumentMoniker": "Application\\Dtos\\RegisterDto.cs",
+              "ToolTip": "E:\\Projects\\Clinic\\Application\\Dtos\\RegisterDto.cs",
+              "RelativeToolTip": "Application\\Dtos\\RegisterDto.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAAABwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-24T00:34:27.759Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "LoginDtoValidator.cs",
+              "DocumentMoniker": "E:\\Projects\\Clinic\\Infrastructure\\Validation\\Auth\\LoginDtoValidator.cs",
+              "RelativeDocumentMoniker": "Infrastructure\\Validation\\Auth\\LoginDtoValidator.cs",
+              "ToolTip": "E:\\Projects\\Clinic\\Infrastructure\\Validation\\Auth\\LoginDtoValidator.cs",
+              "RelativeToolTip": "Infrastructure\\Validation\\Auth\\LoginDtoValidator.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-24T00:29:20.804Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "RegisterDtoValidator.cs",
+              "DocumentMoniker": "E:\\Projects\\Clinic\\Infrastructure\\Validation\\Auth\\RegisterDtoValidator.cs",
+              "RelativeDocumentMoniker": "Infrastructure\\Validation\\Auth\\RegisterDtoValidator.cs",
+              "ToolTip": "E:\\Projects\\Clinic\\Infrastructure\\Validation\\Auth\\RegisterDtoValidator.cs",
+              "RelativeToolTip": "Infrastructure\\Validation\\Auth\\RegisterDtoValidator.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-24T00:27:55.999Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "Infrastructure.csproj",
+              "DocumentMoniker": "E:\\Projects\\Clinic\\Infrastructure\\Infrastructure.csproj",
+              "RelativeDocumentMoniker": "Infrastructure\\Infrastructure.csproj",
+              "ToolTip": "E:\\Projects\\Clinic\\Infrastructure\\Infrastructure.csproj",
+              "RelativeToolTip": "Infrastructure\\Infrastructure.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-09-24T00:25:31.447Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "Application.csproj",
+              "DocumentMoniker": "E:\\Projects\\Clinic\\Application\\Application.csproj",
+              "RelativeDocumentMoniker": "Application\\Application.csproj",
+              "ToolTip": "E:\\Projects\\Clinic\\Application\\Application.csproj",
+              "RelativeToolTip": "Application\\Application.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-09-24T00:23:41.108Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "AddToRoleDto.cs",
+              "DocumentMoniker": "E:\\Projects\\Clinic\\Application\\Dtos\\AddToRoleDto.cs",
+              "RelativeDocumentMoniker": "Application\\Dtos\\AddToRoleDto.cs",
+              "ToolTip": "E:\\Projects\\Clinic\\Application\\Dtos\\AddToRoleDto.cs",
+              "RelativeToolTip": "Application\\Dtos\\AddToRoleDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAUAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-23T21:02:53.96Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "IAccountService.cs",
+              "DocumentMoniker": "E:\\Projects\\Clinic\\Application\\Interfaces\\IAccountService.cs",
+              "RelativeDocumentMoniker": "Application\\Interfaces\\IAccountService.cs",
+              "ToolTip": "E:\\Projects\\Clinic\\Application\\Interfaces\\IAccountService.cs",
+              "RelativeToolTip": "Application\\Interfaces\\IAccountService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAABKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-23T21:00:57.614Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "DefaultRoles.cs",
+              "DocumentMoniker": "E:\\Projects\\Clinic\\Infrastructure\\Seeding\\DefaultRoles.cs",
+              "RelativeDocumentMoniker": "Infrastructure\\Seeding\\DefaultRoles.cs",
+              "ToolTip": "E:\\Projects\\Clinic\\Infrastructure\\Seeding\\DefaultRoles.cs*",
+              "RelativeToolTip": "Infrastructure\\Seeding\\DefaultRoles.cs*",
+              "ViewState": "AgIAABAAAAAAAAAAAAAQwBUAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-23T20:57:26.173Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\Projects\\Clinic\\Clinic\\Program.cs",
+              "RelativeDocumentMoniker": "Clinic\\Program.cs",
+              "ToolTip": "E:\\Projects\\Clinic\\Clinic\\Program.cs",
+              "RelativeToolTip": "Clinic\\Program.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAjwBIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-23T20:56:45.529Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "IJwt.cs",
+              "DocumentMoniker": "E:\\Projects\\Clinic\\Application\\Interfaces\\IJwt.cs",
+              "RelativeDocumentMoniker": "Application\\Interfaces\\IJwt.cs",
+              "ToolTip": "E:\\Projects\\Clinic\\Application\\Interfaces\\IJwt.cs",
+              "RelativeToolTip": "Application\\Interfaces\\IJwt.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-23T20:46:16.477Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "Jwt.cs",
+              "DocumentMoniker": "E:\\Projects\\Clinic\\Infrastructure\\Services\\Jwt.cs",
+              "RelativeDocumentMoniker": "Infrastructure\\Services\\Jwt.cs",
+              "ToolTip": "E:\\Projects\\Clinic\\Infrastructure\\Services\\Jwt.cs",
+              "RelativeToolTip": "Infrastructure\\Services\\Jwt.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAABcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-23T20:44:28.539Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "Roles.cs",
+              "DocumentMoniker": "E:\\Projects\\Clinic\\Domain\\Enums\\Roles.cs",
+              "RelativeDocumentMoniker": "Domain\\Enums\\Roles.cs",
+              "ToolTip": "E:\\Projects\\Clinic\\Domain\\Enums\\Roles.cs",
+              "RelativeToolTip": "Domain\\Enums\\Roles.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-23T20:31:47.362Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "CloudinaryService.cs",
+              "DocumentMoniker": "E:\\Projects\\Clinic\\Infrastructure\\Services\\CloudinaryService.cs",
+              "RelativeDocumentMoniker": "Infrastructure\\Services\\CloudinaryService.cs",
+              "ToolTip": "E:\\Projects\\Clinic\\Infrastructure\\Services\\CloudinaryService.cs",
+              "RelativeToolTip": "Infrastructure\\Services\\CloudinaryService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-23T20:30:50.792Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "Clinic.csproj",
+              "DocumentMoniker": "E:\\Projects\\Clinic\\Clinic\\Clinic.csproj",
+              "RelativeDocumentMoniker": "Clinic\\Clinic.csproj",
+              "ToolTip": "E:\\Projects\\Clinic\\Clinic\\Clinic.csproj",
+              "RelativeToolTip": "Clinic\\Clinic.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-09-23T20:24:44.906Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "CurrentUser.cs",
+              "DocumentMoniker": "E:\\Projects\\Clinic\\Application\\Helpers\\CurrentUser.cs",
+              "RelativeDocumentMoniker": "Application\\Helpers\\CurrentUser.cs",
+              "ToolTip": "E:\\Projects\\Clinic\\Application\\Helpers\\CurrentUser.cs",
+              "RelativeToolTip": "Application\\Helpers\\CurrentUser.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-23T14:50:27.127Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "OAuthService.cs",
+              "DocumentMoniker": "E:\\Projects\\Clinic\\Infrastructure\\Services\\OAuthService.cs",
+              "RelativeDocumentMoniker": "Infrastructure\\Services\\OAuthService.cs",
+              "ToolTip": "E:\\Projects\\Clinic\\Infrastructure\\Services\\OAuthService.cs",
+              "RelativeToolTip": "Infrastructure\\Services\\OAuthService.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAAQwCkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-23T13:52:54.358Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "IOAuthService.cs",
+              "DocumentMoniker": "E:\\Projects\\Clinic\\Application\\Interfaces\\IOAuthService.cs",
+              "RelativeDocumentMoniker": "Application\\Interfaces\\IOAuthService.cs",
+              "ToolTip": "E:\\Projects\\Clinic\\Application\\Interfaces\\IOAuthService.cs",
+              "RelativeToolTip": "Application\\Interfaces\\IOAuthService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAsAAABTAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-23T13:51:06.721Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "Gender.cs",
+              "DocumentMoniker": "E:\\Projects\\Clinic\\Domain\\Enums\\Gender.cs",
+              "RelativeDocumentMoniker": "Domain\\Enums\\Gender.cs",
+              "ToolTip": "E:\\Projects\\Clinic\\Domain\\Enums\\Gender.cs",
+              "RelativeToolTip": "Domain\\Enums\\Gender.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-23T13:45:01.909Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "OAuthController.cs",
+              "DocumentMoniker": "E:\\Projects\\Clinic\\Clinic\\Controllers\\OAuthController.cs",
+              "RelativeDocumentMoniker": "Clinic\\Controllers\\OAuthController.cs",
+              "ToolTip": "E:\\Projects\\Clinic\\Clinic\\Controllers\\OAuthController.cs",
+              "RelativeToolTip": "Clinic\\Controllers\\OAuthController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-23T13:34:32.593Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ServiceCollectionExtensions.cs",
+              "DocumentMoniker": "E:\\Projects\\Clinic\\Infrastructure\\ExtentionMethods\\ServiceCollectionExtensions.cs",
+              "RelativeDocumentMoniker": "Infrastructure\\ExtentionMethods\\ServiceCollectionExtensions.cs",
+              "ToolTip": "E:\\Projects\\Clinic\\Infrastructure\\ExtentionMethods\\ServiceCollectionExtensions.cs",
+              "RelativeToolTip": "Infrastructure\\ExtentionMethods\\ServiceCollectionExtensions.cs",
+              "ViewState": "AgIAAD8AAAAAAAAAAAAmwFsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-23T13:28:59.613Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "appsettings.Development.json",
+              "DocumentMoniker": "E:\\Projects\\Clinic\\Clinic\\appsettings.Development.json",
+              "RelativeDocumentMoniker": "Clinic\\appsettings.Development.json",
+              "ToolTip": "E:\\Projects\\Clinic\\Clinic\\appsettings.Development.json",
+              "RelativeToolTip": "Clinic\\appsettings.Development.json",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAcwCUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-09-23T13:24:49.342Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "client_secret_89494658888-mv71d0kbk9us90i9262615hjc63blis8.apps.googleusercontent.com.json",
+              "DocumentMoniker": "C:\\Users\\Yousef_zydan\\Downloads\\client_secret_89494658888-mv71d0kbk9us90i9262615hjc63blis8.apps.googleusercontent.com.json",
+              "ToolTip": "C:\\Users\\Yousef_zydan\\Downloads\\client_secret_89494658888-mv71d0kbk9us90i9262615hjc63blis8.apps.googleusercontent.com.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-09-23T13:24:20.36Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "AccountService.cs",
+              "DocumentMoniker": "E:\\Projects\\Clinic\\Infrastructure\\Services\\AccountService.cs",
+              "RelativeDocumentMoniker": "Infrastructure\\Services\\AccountService.cs",
+              "ToolTip": "E:\\Projects\\Clinic\\Infrastructure\\Services\\AccountService.cs",
+              "RelativeToolTip": "Infrastructure\\Services\\AccountService.cs",
+              "ViewState": "AgIAADoAAAAAAAAAAAAQwAQAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-23T02:09:43.961Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ApiController.cs",
+              "DocumentMoniker": "E:\\Projects\\Clinic\\Clinic\\Controllers\\ApiController.cs",
+              "RelativeDocumentMoniker": "Clinic\\Controllers\\ApiController.cs",
+              "ToolTip": "E:\\Projects\\Clinic\\Clinic\\Controllers\\ApiController.cs",
+              "RelativeToolTip": "Clinic\\Controllers\\ApiController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-23T02:07:19.92Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "UserController.cs",
+              "DocumentMoniker": "E:\\Projects\\Clinic\\Clinic\\Controllers\\UserController.cs",
+              "RelativeDocumentMoniker": "Clinic\\Controllers\\UserController.cs",
+              "ToolTip": "E:\\Projects\\Clinic\\Clinic\\Controllers\\UserController.cs",
+              "RelativeToolTip": "Clinic\\Controllers\\UserController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAEoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-22T23:32:59.945Z"
+            }
+          ]
+        },
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{a80febb4-e7e0-4147-b476-21aaf2453969}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
