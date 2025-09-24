@@ -1,15 +1,18 @@
-FROM mcr.microsoft.com/dotnet/aspnet:8.0 AS base
-WORKDIR /app
-EXPOSE 80
-ENV ASPNETCORE_URLS=http://+:80
-
 FROM mcr.microsoft.com/dotnet/sdk:8.0 AS build
 WORKDIR /src
+
+COPY Clinic/Clinic.csproj Clinic/
+COPY Application/Application.csproj Application/
+COPY Domain/Domain.csproj Domain/
+COPY Infrastructure/Infrastructure.csproj Infrastructure/
+
+RUN dotnet restore "Clinic/Clinic.csproj"
+
 COPY . .
-RUN dotnet restore "Clinic.csproj"
+WORKDIR /src/Clinic
 RUN dotnet publish "Clinic.csproj" -c Release -o /app/publish /p:UseAppHost=false
 
-FROM base AS final
+FROM mcr.microsoft.com/dotnet/aspnet:8.0 AS final
 WORKDIR /app
 COPY --from=build /app/publish .
 ENTRYPOINT ["dotnet", "Clinic.dll"]
