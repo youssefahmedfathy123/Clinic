@@ -13,3 +13,4 @@ E:\Projects\Clinic\Application\obj\Debug\net9.0\Application.dll
 E:\Projects\Clinic\Application\obj\Debug\net9.0\refint\Application.dll
 E:\Projects\Clinic\Application\obj\Debug\net9.0\Application.pdb
 E:\Projects\Clinic\Application\obj\Debug\net9.0\ref\Application.dll
+E:\Projects\Clinic\Application\obj\Debug\net9.0\Application.sourcelink.json

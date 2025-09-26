@@ -182,3 +182,4 @@ E:\Projects\Clinic\Clinic\bin\Debug\net9.0\Microsoft.AspNetCore.Authentication.G
 E:\Projects\Clinic\Clinic\bin\Debug\net9.0\FluentValidation.dll
 E:\Projects\Clinic\Clinic\bin\Debug\net9.0\FluentValidation.DependencyInjectionExtensions.dll
 E:\Projects\Clinic\Clinic\bin\Debug\net9.0\FluentValidation.AspNetCore.dll
+E:\Projects\Clinic\Clinic\obj\Debug\net9.0\Clinic.sourcelink.json

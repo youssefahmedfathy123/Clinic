@@ -21,7 +21,7 @@
   },
   {
     "ContainingType": "Clinic.Controllers.UserController",
-    "Method": "AddToRole",
+    "Method": "UpdateRolesDto",
     "RelativePath": "api/User/add-to-role",
     "HttpMethod": "POST",
     "IsController": true,
@@ -29,7 +29,7 @@
     "Parameters": [
       {
         "Name": "input",
-        "Type": "Application.Dtos.AddToRoleDto",
+        "Type": "Application.Dtos.UpdateRolesDto",
         "IsRequired": true
       }
     ],
@@ -46,6 +46,22 @@
       {
         "Name": "input",
         "Type": "Application.Dtos.ForgotPasswordDto",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Clinic.Controllers.UserController",
+    "Method": "GetUserRoles",
+    "RelativePath": "api/User/GetUserRoles/{userId}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "userId",
+        "Type": "System.String",
         "IsRequired": true
       }
     ],
@@ -134,6 +150,22 @@
       {
         "Name": "input",
         "Type": "Application.Dtos.ResetPasswordDto",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Clinic.Controllers.UserController",
+    "Method": "UpdateRoles",
+    "RelativePath": "api/User/UpdateRoles",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "input",
+        "Type": "Application.Dtos.UpdateRolesDto",
         "IsRequired": true
       }
     ],

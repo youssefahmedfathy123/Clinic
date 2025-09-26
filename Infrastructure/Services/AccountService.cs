@@ -96,24 +96,35 @@ namespace Infrastructure.Services
         }
 
 
-        public async Task<Result<bool>> AddToRoleAsync(string userId, string roleName)
+        public async Task<Result<List<string>>> UpdateUserRolesAsync(UpdateRolesDto input)
         {
-            var user = await _userManager.FindByIdAsync(userId);
-            if (user == null)
-                return Result<bool>.Fail("User not found");
+            var user = await _userManager.FindByIdAsync(input.UserId);
+            if (user is null)
+                return Result<List<string>>.Fail("User not found");
 
-            var roleExists = await _userManager.IsInRoleAsync(user, roleName);
-            if (roleExists)
-                return Result<bool>.Fail("User already in this role");
-
-            var result = await _userManager.AddToRoleAsync(user, roleName);
-            if (!result.Succeeded)
+            var currentRoles = await _userManager.GetRolesAsync(user);
+            if (currentRoles.Any())
             {
-                var errors = string.Join(", ", result.Errors.Select(e => e.Description));
-                return Result<bool>.Fail(errors);
+                var removeResult = await _userManager.RemoveFromRolesAsync(user, currentRoles);
+                if (!removeResult.Succeeded)
+                {
+                    var errors = string.Join(", ", removeResult.Errors.Select(e => e.Description));
+                    return Result<List<string>>.Fail(errors);
+                }
             }
 
-            return Result<bool>.Success(true);
+            if (input.Roles.Any())
+            {
+                var addResult = await _userManager.AddToRolesAsync(user, input.Roles);
+                if (!addResult.Succeeded)
+                {
+                    var errors = string.Join(", ", addResult.Errors.Select(e => e.Description));
+                    return Result<List<string>>.Fail(errors);
+                }
+            }
+
+            var updatedRoles = await _userManager.GetRolesAsync(user);
+            return Result<List<string>>.Success(updatedRoles.ToList());
         }
 
 
@@ -145,5 +156,15 @@ namespace Infrastructure.Services
 
             return Result<bool>.Success(true);
         }
+
+        public async Task<Result<List<string>>> GetRolesOfUser(string userId)
+        {
+            var user = await _userManager.FindByIdAsync(userId);
+            if (user == null) return Result<List<string>>.Fail("user not found");
+
+            var roles = await _userManager.GetRolesAsync(user);
+            return Result<List<string>>.Success(roles.ToList());
+        }
     }
 }
+
