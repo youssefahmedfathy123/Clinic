@@ -3,6 +3,8 @@ using Application.Interfaces;
 using Microsoft.AspNetCore.Authorization;
 using Microsoft.AspNetCore.Mvc;
 
+
+
 namespace Clinic.Controllers
 {
     public class UserController(IAccountService _accountService) : ApiController
@@ -19,6 +21,10 @@ namespace Clinic.Controllers
             return Ok(result.Data);
 
         }
+
+        
+
+
 
         [HttpPost("login")]
         public async Task<IActionResult> Login([FromBody] LoginDto input)
@@ -69,8 +75,8 @@ namespace Clinic.Controllers
 
 
 
-
-     [HttpGet("GetUserRoles/{userId}")]
+        [Authorize(Roles = "Admin")]
+        [HttpGet("GetUserRoles/{userId}")]
         public async Task<IActionResult> GetUserRoles(string userId)
         {
 
@@ -82,6 +88,7 @@ namespace Clinic.Controllers
         }
 
 
+        [Authorize(Roles = "Admin")]
         [HttpPost("UpdateRoles")]
         public async Task<IActionResult> UpdateRoles([FromBody] UpdateRolesDto input)
         {

@@ -167,7 +167,6 @@ E:\Projects\Clinic\Clinic\obj\Debug\net9.0\staticwebassets.build.json
 E:\Projects\Clinic\Clinic\obj\Debug\net9.0\staticwebassets.build.json.cache
 E:\Projects\Clinic\Clinic\obj\Debug\net9.0\staticwebassets.development.json
 E:\Projects\Clinic\Clinic\obj\Debug\net9.0\staticwebassets.build.endpoints.json
-E:\Projects\Clinic\Clinic\obj\Debug\net9.0\staticwebassets.upToDateCheck.txt
 E:\Projects\Clinic\Clinic\obj\Debug\net9.0\Clinic.csproj.Up2Date
 E:\Projects\Clinic\Clinic\obj\Debug\net9.0\Clinic.dll
 E:\Projects\Clinic\Clinic\obj\Debug\net9.0\refint\Clinic.dll
@@ -183,3 +182,9 @@ E:\Projects\Clinic\Clinic\bin\Debug\net9.0\FluentValidation.dll
 E:\Projects\Clinic\Clinic\bin\Debug\net9.0\FluentValidation.DependencyInjectionExtensions.dll
 E:\Projects\Clinic\Clinic\bin\Debug\net9.0\FluentValidation.AspNetCore.dll
 E:\Projects\Clinic\Clinic\obj\Debug\net9.0\Clinic.sourcelink.json
+E:\Projects\Clinic\Clinic\bin\Debug\net9.0\Swashbuckle.AspNetCore.Swagger.dll
+E:\Projects\Clinic\Clinic\bin\Debug\net9.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+E:\Projects\Clinic\Clinic\bin\Debug\net9.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+E:\Projects\Clinic\Clinic\bin\Debug\net9.0\Npgsql.dll
+E:\Projects\Clinic\Clinic\bin\Debug\net9.0\Npgsql.EntityFrameworkCore.PostgreSQL.dll
+E:\Projects\Clinic\Clinic\obj\Debug\net9.0\staticwebassets.upToDateCheck.txt

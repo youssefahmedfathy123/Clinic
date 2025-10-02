@@ -26,7 +26,7 @@ namespace Clinic.Controllers
             return Challenge(properties, "Google");
         }
 
-
+        
         [HttpGet("google-response")]
         public async Task<IActionResult> GoogleResponse()
         {

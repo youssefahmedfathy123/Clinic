@@ -23,8 +23,13 @@ namespace MyProject.Infrastructure.Extensions
         {
             services.AddDbContext<ApplicationDbContext>(options =>
             {
-                options.UseSqlServer(config.GetConnectionString("Clinic"));
+                options.UseSqlServer(config.GetConnectionString("DefaultConnection"));
             });
+
+
+            //        services.AddDbContext<ApplicationDbContext>(options =>
+            //options.UseNpgsql(config.GetConnectionString("DefaultConnection")));
+
 
 
             services.AddIdentity<User, IdentityRole>()

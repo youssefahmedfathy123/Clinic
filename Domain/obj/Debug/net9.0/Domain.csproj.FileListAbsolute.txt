@@ -10,3 +10,4 @@ E:\Projects\Clinic\Domain\obj\Debug\net9.0\Domain.dll
 E:\Projects\Clinic\Domain\obj\Debug\net9.0\refint\Domain.dll
 E:\Projects\Clinic\Domain\obj\Debug\net9.0\Domain.pdb
 E:\Projects\Clinic\Domain\obj\Debug\net9.0\ref\Domain.dll
+E:\Projects\Clinic\Domain\obj\Debug\net9.0\Domain.sourcelink.json
