@@ -1,12 +1,11 @@
 ﻿using Domain.Enums;
 using Microsoft.AspNetCore.Http;
-using System.ComponentModel.DataAnnotations;
 
 namespace Application.Dtos
 {
     public class RegisterDto
     {
-        public required string Name { get; set; }
+        public required string Name { get; set; } 
 
         public required string Nickname { get; set; }
 
@@ -24,5 +23,11 @@ namespace Application.Dtos
 
         public required IFormFile Photo { get; set; }
 
-        }
+        public required string Phone { get; set; }
+
     }
+  }
+
+
+
+

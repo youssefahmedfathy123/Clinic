@@ -68,13 +68,11 @@ E:\Projects\Clinic\Clinic\bin\Release\net9.0\System.Composition.Runtime.dll
 E:\Projects\Clinic\Clinic\bin\Release\net9.0\System.Composition.TypedParts.dll
 E:\Projects\Clinic\Clinic\bin\Release\net9.0\System.Configuration.ConfigurationManager.dll
 E:\Projects\Clinic\Clinic\bin\Release\net9.0\System.Drawing.Common.dll
-E:\Projects\Clinic\Clinic\bin\Release\net9.0\System.Formats.Asn1.dll
 E:\Projects\Clinic\Clinic\bin\Release\net9.0\System.IdentityModel.Tokens.Jwt.dll
 E:\Projects\Clinic\Clinic\bin\Release\net9.0\System.Memory.Data.dll
 E:\Projects\Clinic\Clinic\bin\Release\net9.0\System.Runtime.Caching.dll
 E:\Projects\Clinic\Clinic\bin\Release\net9.0\System.Security.Cryptography.ProtectedData.dll
 E:\Projects\Clinic\Clinic\bin\Release\net9.0\System.Security.Permissions.dll
-E:\Projects\Clinic\Clinic\bin\Release\net9.0\System.Text.Json.dll
 E:\Projects\Clinic\Clinic\bin\Release\net9.0\System.Windows.Extensions.dll
 E:\Projects\Clinic\Clinic\bin\Release\net9.0\cs\Microsoft.CodeAnalysis.resources.dll
 E:\Projects\Clinic\Clinic\bin\Release\net9.0\de\Microsoft.CodeAnalysis.resources.dll
@@ -182,3 +180,10 @@ E:\Projects\Clinic\Clinic\obj\Release\net9.0\refint\Clinic.dll
 E:\Projects\Clinic\Clinic\obj\Release\net9.0\Clinic.pdb
 E:\Projects\Clinic\Clinic\obj\Release\net9.0\Clinic.genruntimeconfig.cache
 E:\Projects\Clinic\Clinic\obj\Release\net9.0\ref\Clinic.dll
+E:\Projects\Clinic\Clinic\bin\Release\net9.0\AutoMapper.dll
+E:\Projects\Clinic\Clinic\bin\Release\net9.0\Npgsql.dll
+E:\Projects\Clinic\Clinic\bin\Release\net9.0\Npgsql.EntityFrameworkCore.PostgreSQL.dll
+E:\Projects\Clinic\Clinic\bin\Release\net9.0\Swashbuckle.AspNetCore.Swagger.dll
+E:\Projects\Clinic\Clinic\bin\Release\net9.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+E:\Projects\Clinic\Clinic\bin\Release\net9.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+E:\Projects\Clinic\Clinic\obj\Release\net9.0\staticwebassets.upToDateCheck.txt

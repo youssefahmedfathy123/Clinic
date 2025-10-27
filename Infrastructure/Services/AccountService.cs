@@ -1,13 +1,17 @@
 ﻿using Application.Dtos;
 using Application.Helpers;
 using Application.Interfaces;
+using AutoMapper;
 using Domain.Entities;
 using Domain.Enums; 
 using Microsoft.AspNetCore.Identity;
 
 namespace Infrastructure.Services
 {
-    internal class AccountService(UserManager<User> _userManager, ICloudinaryService _photo, IJwt _jwt) : IAccountService
+    internal class AccountService(UserManager<User> _userManager,
+        ICloudinaryService _photo, 
+        IJwt _jwt,
+        IMapper _mapper) : IAccountService
     {
         public async Task<Result<CurrentUser>> Register(RegisterDto input)
         {
@@ -30,7 +34,8 @@ namespace Infrastructure.Services
                 Nickname = input.Nickname,
                 DateOfBirth = input.DateOfBirth,
                 Gender = input.Gender,
-                PhotoUrl = photo.Url.ToString()
+                PhotoUrl = photo.Url.ToString(),
+                PhoneNumber = input.Phone
             };
 
             var pass = await _userManager.CreateAsync(newUser, input.Password);
@@ -60,6 +65,7 @@ namespace Infrastructure.Services
 
             return Result<CurrentUser>.Success(currentUser);
         }
+
 
         public async Task<Result<CurrentUser>> Login(LoginDto input)
         {
@@ -94,6 +100,7 @@ namespace Infrastructure.Services
 
             return Result<CurrentUser>.Success(currentUser);
         }
+
 
 
         public async Task<Result<List<string>>> UpdateUserRolesAsync(UpdateRolesDto input)
@@ -165,6 +172,21 @@ namespace Infrastructure.Services
             var roles = await _userManager.GetRolesAsync(user);
             return Result<List<string>>.Success(roles.ToList());
         }
+
+
+        public async Task<userDto?> GetProfileInfo(string userId)
+        {
+            var user = await _userManager.FindByIdAsync(userId);
+
+            if (user == null)
+                  return null;
+
+            return _mapper.Map<userDto>(user);
+
+        }
+
     }
 }
+
+
 

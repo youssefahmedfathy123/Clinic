@@ -1,4 +1,5 @@
-﻿using Application.Helpers;
+﻿using Application.AutoMapper;
+using Application.Helpers;
 using Application.Interfaces;
 using Application.Validators;
 using Domain.Entities;
@@ -11,7 +12,6 @@ using Microsoft.AspNetCore.Identity;
 using Microsoft.EntityFrameworkCore;
 using Microsoft.Extensions.Configuration;
 using Microsoft.Extensions.DependencyInjection;
-using Microsoft.Extensions.Options;
 using Microsoft.IdentityModel.Tokens;
 using System.Text;
 
@@ -23,7 +23,7 @@ namespace MyProject.Infrastructure.Extensions
         {
             services.AddDbContext<ApplicationDbContext>(options =>
             {
-                options.UseSqlServer(config.GetConnectionString("DefaultConnection"));
+                options.UseSqlServer(config.GetConnectionString("Clinic"));
             });
 
 
@@ -49,6 +49,8 @@ namespace MyProject.Infrastructure.Extensions
             services.AddScoped<ICloudinaryService,CloudinaryService>();
             services.AddScoped<IAccountService, AccountService>();
             services.AddScoped<IOAuthService, OAuthService>();
+            services.AddScoped<IDoctorServices, DoctorService>();
+
 
             services.AddScoped<IJwt, Jwt>();
 
@@ -94,6 +96,7 @@ namespace MyProject.Infrastructure.Extensions
               googleOptions.SaveTokens = true;
           });
 
+            services.AddAutoMapper(cfg => cfg.AddProfile<MappingProfile>());
 
 
             return services;

@@ -1,9 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "QBcXQx+eGmA=",
+  "dgSpecHash": "eN8oS70UM0o=",
   "success": true,
   "projectFilePath": "E:\\Projects\\Clinic\\Clinic\\Clinic.csproj",
   "expectedPackageFiles": [
+    "C:\\Users\\Yousef_zydan\\.nuget\\packages\\automapper\\15.0.1\\automapper.15.0.1.nupkg.sha512",
     "C:\\Users\\Yousef_zydan\\.nuget\\packages\\azure.core\\1.38.0\\azure.core.1.38.0.nupkg.sha512",
     "C:\\Users\\Yousef_zydan\\.nuget\\packages\\azure.identity\\1.11.4\\azure.identity.1.11.4.nupkg.sha512",
     "C:\\Users\\Yousef_zydan\\.nuget\\packages\\cloudinarydotnet\\1.27.7\\cloudinarydotnet.1.27.7.nupkg.sha512",

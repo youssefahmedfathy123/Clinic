@@ -12,6 +12,8 @@ namespace Application.Interfaces
         Task<Result<string>> ForgotPassword(ForgotPasswordDto input);
         Task<Result<bool>> ResetPassword(ResetPasswordDto input);
 
+        Task<userDto?> GetProfileInfo(string userId);
+
     }
 }
 

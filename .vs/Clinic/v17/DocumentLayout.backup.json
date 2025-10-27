@@ -3,75 +3,24 @@
   "WorkspaceRootPath": "E:\\Projects\\Clinic\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{81DDED9D-158B-E303-5F62-77A2896D2A5A}|docker-compose.dcproj|e:\\projects\\clinic\\docker-compose.yml||{8B382828-6202-11D1-8870-0000F87579D2}",
-      "RelativeMoniker": "D:0:0:{81DDED9D-158B-E303-5F62-77A2896D2A5A}|docker-compose.dcproj|solutionrelative:docker-compose.yml||{8B382828-6202-11D1-8870-0000F87579D2}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{97B7CE5F-1599-408B-93FE-A1D5D1F77A4F}|Clinic\\Clinic.csproj|e:\\projects\\clinic\\clinic\\dockerfile||{8B382828-6202-11D1-8870-0000F87579D2}",
-      "RelativeMoniker": "D:0:0:{97B7CE5F-1599-408B-93FE-A1D5D1F77A4F}|Clinic\\Clinic.csproj|solutionrelative:clinic\\dockerfile||{8B382828-6202-11D1-8870-0000F87579D2}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{81DDED9D-158B-E303-5F62-77A2896D2A5A}|docker-compose.dcproj|e:\\projects\\clinic\\docker-compose.dcproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
-      "RelativeMoniker": "D:0:0:{81DDED9D-158B-E303-5F62-77A2896D2A5A}|docker-compose.dcproj|solutionrelative:docker-compose.dcproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{97B7CE5F-1599-408B-93FE-A1D5D1F77A4F}|Clinic\\Clinic.csproj|e:\\projects\\clinic\\.dockerignore||{3B902123-F8A7-4915-9F01-361F908088D0}",
-      "RelativeMoniker": "D:0:0:{97B7CE5F-1599-408B-93FE-A1D5D1F77A4F}|Clinic\\Clinic.csproj|solutionrelative:.dockerignore||{3B902123-F8A7-4915-9F01-361F908088D0}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{97B7CE5F-1599-408B-93FE-A1D5D1F77A4F}|Clinic\\Clinic.csproj|e:\\projects\\clinic\\clinic\\clinic.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
-      "RelativeMoniker": "D:0:0:{97B7CE5F-1599-408B-93FE-A1D5D1F77A4F}|Clinic\\Clinic.csproj|solutionrelative:clinic\\clinic.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{81DDED9D-158B-E303-5F62-77A2896D2A5A}|docker-compose.dcproj|e:\\projects\\clinic\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{81DDED9D-158B-E303-5F62-77A2896D2A5A}|docker-compose.dcproj|solutionrelative:launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+      "AbsoluteMoniker": "D:0:0:{97B7CE5F-1599-408B-93FE-A1D5D1F77A4F}|Clinic\\Clinic.csproj|e:\\projects\\clinic\\clinic\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{97B7CE5F-1599-408B-93FE-A1D5D1F77A4F}|Clinic\\Clinic.csproj|solutionrelative:clinic\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{97B7CE5F-1599-408B-93FE-A1D5D1F77A4F}|Clinic\\Clinic.csproj|e:\\projects\\clinic\\clinic\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{97B7CE5F-1599-408B-93FE-A1D5D1F77A4F}|Clinic\\Clinic.csproj|solutionrelative:clinic\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|E:\\Projects\\Clinic\\Infrastructure\\Migrations\\20251002013301_fj.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Infrastructure\\Migrations\\20251002013301_fj.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{82CCDFCE-A040-461D-BBF4-9BAFFC606724}|Infrastructure\\Infrastructure.csproj|e:\\projects\\clinic\\infrastructure\\seeding\\defaultroles.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{82CCDFCE-A040-461D-BBF4-9BAFFC606724}|Infrastructure\\Infrastructure.csproj|solutionrelative:infrastructure\\seeding\\defaultroles.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{97B7CE5F-1599-408B-93FE-A1D5D1F77A4F}|Clinic\\Clinic.csproj|e:\\projects\\clinic\\clinic\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
       "RelativeMoniker": "D:0:0:{97B7CE5F-1599-408B-93FE-A1D5D1F77A4F}|Clinic\\Clinic.csproj|solutionrelative:clinic\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{82CCDFCE-A040-461D-BBF4-9BAFFC606724}|Infrastructure\\Infrastructure.csproj|e:\\projects\\clinic\\infrastructure\\extentionmethods\\servicecollectionextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{82CCDFCE-A040-461D-BBF4-9BAFFC606724}|Infrastructure\\Infrastructure.csproj|solutionrelative:infrastructure\\extentionmethods\\servicecollectionextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{97B7CE5F-1599-408B-93FE-A1D5D1F77A4F}|Clinic\\Clinic.csproj|e:\\projects\\clinic\\clinic\\controllers\\doctorcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{97B7CE5F-1599-408B-93FE-A1D5D1F77A4F}|Clinic\\Clinic.csproj|solutionrelative:clinic\\controllers\\doctorcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{97B7CE5F-1599-408B-93FE-A1D5D1F77A4F}|Clinic\\Clinic.csproj|e:\\projects\\clinic\\clinic\\weatherforecast.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{97B7CE5F-1599-408B-93FE-A1D5D1F77A4F}|Clinic\\Clinic.csproj|solutionrelative:clinic\\weatherforecast.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{97B7CE5F-1599-408B-93FE-A1D5D1F77A4F}|Clinic\\Clinic.csproj|e:\\projects\\clinic\\clinic\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{97B7CE5F-1599-408B-93FE-A1D5D1F77A4F}|Clinic\\Clinic.csproj|solutionrelative:clinic\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{82CCDFCE-A040-461D-BBF4-9BAFFC606724}|Infrastructure\\Infrastructure.csproj|e:\\projects\\clinic\\infrastructure\\extentionmethods\\migrationextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{82CCDFCE-A040-461D-BBF4-9BAFFC606724}|Infrastructure\\Infrastructure.csproj|solutionrelative:infrastructure\\extentionmethods\\migrationextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{82CCDFCE-A040-461D-BBF4-9BAFFC606724}|Infrastructure\\Infrastructure.csproj|e:\\projects\\clinic\\infrastructure\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{82CCDFCE-A040-461D-BBF4-9BAFFC606724}|Infrastructure\\Infrastructure.csproj|solutionrelative:infrastructure\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{82CCDFCE-A040-461D-BBF4-9BAFFC606724}|Infrastructure\\Infrastructure.csproj|e:\\projects\\clinic\\infrastructure\\infrastructure.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
-      "RelativeMoniker": "D:0:0:{82CCDFCE-A040-461D-BBF4-9BAFFC606724}|Infrastructure\\Infrastructure.csproj|solutionrelative:infrastructure\\infrastructure.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{82CCDFCE-A040-461D-BBF4-9BAFFC606724}|Infrastructure\\Infrastructure.csproj|e:\\projects\\clinic\\infrastructure\\services\\accountservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{82CCDFCE-A040-461D-BBF4-9BAFFC606724}|Infrastructure\\Infrastructure.csproj|solutionrelative:infrastructure\\services\\accountservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\MSBuild\\Sdks\\Microsoft.Docker.Sdk\\build\\Microsoft.VisualStudio.Docker.Compose.targets||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+      "AbsoluteMoniker": "D:0:0:{ED62C01B-FC13-446C-A21A-51476EB6E15B}|Application\\Application.csproj|e:\\projects\\clinic\\application\\dtos\\registerdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ED62C01B-FC13-446C-A21A-51476EB6E15B}|Application\\Application.csproj|solutionrelative:application\\dtos\\registerdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{97B7CE5F-1599-408B-93FE-A1D5D1F77A4F}|Clinic\\Clinic.csproj|e:\\projects\\clinic\\clinic\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -82,28 +31,128 @@
       "RelativeMoniker": "D:0:0:{97B7CE5F-1599-408B-93FE-A1D5D1F77A4F}|Clinic\\Clinic.csproj|solutionrelative:clinic\\controllers\\apicontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Yousef_zydan\\Downloads\\ClinicAPI.postman_collection (3).json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|E:\\Projects\\Clinic\\Infrastructure\\Migrations\\20251027190655_initial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Infrastructure\\Migrations\\20251027190655_initial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Yousef_zydan\\Downloads\\ClinicAPI.postman_collection (2).json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+      "AbsoluteMoniker": "D:0:0:{82CCDFCE-A040-461D-BBF4-9BAFFC606724}|Infrastructure\\Infrastructure.csproj|e:\\projects\\clinic\\infrastructure\\seeding\\defaultroles.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{82CCDFCE-A040-461D-BBF4-9BAFFC606724}|Infrastructure\\Infrastructure.csproj|solutionrelative:infrastructure\\seeding\\defaultroles.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Yousef_zydan\\Desktop\\ClinicAPI.postman_collection.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+      "AbsoluteMoniker": "D:0:0:{8252FC65-6A4D-41A9-8134-1B434344D545}|Domain\\Domain.csproj|e:\\projects\\clinic\\domain\\entities\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8252FC65-6A4D-41A9-8134-1B434344D545}|Domain\\Domain.csproj|solutionrelative:domain\\entities\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{97B7CE5F-1599-408B-93FE-A1D5D1F77A4F}|Clinic\\Clinic.csproj|e:\\projects\\clinic\\clinic\\controllers\\oauthcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{97B7CE5F-1599-408B-93FE-A1D5D1F77A4F}|Clinic\\Clinic.csproj|solutionrelative:clinic\\controllers\\oauthcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{ED62C01B-FC13-446C-A21A-51476EB6E15B}|Application\\Application.csproj|e:\\projects\\clinic\\application\\dtos\\userdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ED62C01B-FC13-446C-A21A-51476EB6E15B}|Application\\Application.csproj|solutionrelative:application\\dtos\\userdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{82CCDFCE-A040-461D-BBF4-9BAFFC606724}|Infrastructure\\Infrastructure.csproj|e:\\projects\\clinic\\infrastructure\\configurations\\doctorconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{82CCDFCE-A040-461D-BBF4-9BAFFC606724}|Infrastructure\\Infrastructure.csproj|solutionrelative:infrastructure\\configurations\\doctorconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|E:\\Projects\\Clinic\\Infrastructure\\Migrations\\20251016222230_sff.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Infrastructure\\Migrations\\20251016222230_sff.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{82CCDFCE-A040-461D-BBF4-9BAFFC606724}|Infrastructure\\Infrastructure.csproj|e:\\projects\\clinic\\infrastructure\\configurations\\userconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{82CCDFCE-A040-461D-BBF4-9BAFFC606724}|Infrastructure\\Infrastructure.csproj|solutionrelative:infrastructure\\configurations\\userconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{82CCDFCE-A040-461D-BBF4-9BAFFC606724}|Infrastructure\\Infrastructure.csproj|e:\\projects\\clinic\\infrastructure\\seeding\\seed.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{82CCDFCE-A040-461D-BBF4-9BAFFC606724}|Infrastructure\\Infrastructure.csproj|solutionrelative:infrastructure\\seeding\\seed.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{82CCDFCE-A040-461D-BBF4-9BAFFC606724}|Infrastructure\\Infrastructure.csproj|e:\\projects\\clinic\\infrastructure\\extentionmethods\\servicecollectionextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{82CCDFCE-A040-461D-BBF4-9BAFFC606724}|Infrastructure\\Infrastructure.csproj|solutionrelative:infrastructure\\extentionmethods\\servicecollectionextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ED62C01B-FC13-446C-A21A-51476EB6E15B}|Application\\Application.csproj|e:\\projects\\clinic\\application\\automapper\\mappingprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ED62C01B-FC13-446C-A21A-51476EB6E15B}|Application\\Application.csproj|solutionrelative:application\\automapper\\mappingprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{82CCDFCE-A040-461D-BBF4-9BAFFC606724}|Infrastructure\\Infrastructure.csproj|e:\\projects\\clinic\\infrastructure\\extentionmethods\\migrationextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{82CCDFCE-A040-461D-BBF4-9BAFFC606724}|Infrastructure\\Infrastructure.csproj|solutionrelative:infrastructure\\extentionmethods\\migrationextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{82CCDFCE-A040-461D-BBF4-9BAFFC606724}|Infrastructure\\Infrastructure.csproj|e:\\projects\\clinic\\infrastructure\\services\\accountservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{82CCDFCE-A040-461D-BBF4-9BAFFC606724}|Infrastructure\\Infrastructure.csproj|solutionrelative:infrastructure\\services\\accountservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{82CCDFCE-A040-461D-BBF4-9BAFFC606724}|Infrastructure\\Infrastructure.csproj|e:\\projects\\clinic\\infrastructure\\extentionmethods\\claimsprincipalextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{82CCDFCE-A040-461D-BBF4-9BAFFC606724}|Infrastructure\\Infrastructure.csproj|solutionrelative:infrastructure\\extentionmethods\\claimsprincipalextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{ED62C01B-FC13-446C-A21A-51476EB6E15B}|Application\\Application.csproj|e:\\projects\\clinic\\application\\interfaces\\iaccountservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{ED62C01B-FC13-446C-A21A-51476EB6E15B}|Application\\Application.csproj|solutionrelative:application\\interfaces\\iaccountservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{ED62C01B-FC13-446C-A21A-51476EB6E15B}|Application\\Application.csproj|e:\\projects\\clinic\\application\\dtos\\updaterolesdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{ED62C01B-FC13-446C-A21A-51476EB6E15B}|Application\\Application.csproj|solutionrelative:application\\dtos\\updaterolesdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{82CCDFCE-A040-461D-BBF4-9BAFFC606724}|Infrastructure\\Infrastructure.csproj|e:\\projects\\clinic\\infrastructure\\services\\jwt.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{82CCDFCE-A040-461D-BBF4-9BAFFC606724}|Infrastructure\\Infrastructure.csproj|solutionrelative:infrastructure\\services\\jwt.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Yousef_zydan\\Downloads\\ClinicAPI.postman_collection.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+      "AbsoluteMoniker": "D:0:0:{82CCDFCE-A040-461D-BBF4-9BAFFC606724}|Infrastructure\\Infrastructure.csproj|e:\\projects\\clinic\\infrastructure\\services\\doctorservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{82CCDFCE-A040-461D-BBF4-9BAFFC606724}|Infrastructure\\Infrastructure.csproj|solutionrelative:infrastructure\\services\\doctorservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ED62C01B-FC13-446C-A21A-51476EB6E15B}|Application\\Application.csproj|e:\\projects\\clinic\\application\\interfaces\\idoctorservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ED62C01B-FC13-446C-A21A-51476EB6E15B}|Application\\Application.csproj|solutionrelative:application\\interfaces\\idoctorservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ED62C01B-FC13-446C-A21A-51476EB6E15B}|Application\\Application.csproj|e:\\projects\\clinic\\application\\application.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{ED62C01B-FC13-446C-A21A-51476EB6E15B}|Application\\Application.csproj|solutionrelative:application\\application.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ED62C01B-FC13-446C-A21A-51476EB6E15B}|Application\\Application.csproj|e:\\projects\\clinic\\application\\dtos\\doctordto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ED62C01B-FC13-446C-A21A-51476EB6E15B}|Application\\Application.csproj|solutionrelative:application\\dtos\\doctordto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8252FC65-6A4D-41A9-8134-1B434344D545}|Domain\\Domain.csproj|e:\\projects\\clinic\\domain\\entities\\doctor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8252FC65-6A4D-41A9-8134-1B434344D545}|Domain\\Domain.csproj|solutionrelative:domain\\entities\\doctor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{82CCDFCE-A040-461D-BBF4-9BAFFC606724}|Infrastructure\\Infrastructure.csproj|e:\\projects\\clinic\\infrastructure\\infrastructure.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{82CCDFCE-A040-461D-BBF4-9BAFFC606724}|Infrastructure\\Infrastructure.csproj|solutionrelative:infrastructure\\infrastructure.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8252FC65-6A4D-41A9-8134-1B434344D545}|Domain\\Domain.csproj|e:\\projects\\clinic\\domain\\entities\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8252FC65-6A4D-41A9-8134-1B434344D545}|Domain\\Domain.csproj|solutionrelative:domain\\entities\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{82CCDFCE-A040-461D-BBF4-9BAFFC606724}|Infrastructure\\Infrastructure.csproj|e:\\projects\\clinic\\infrastructure\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{82CCDFCE-A040-461D-BBF4-9BAFFC606724}|Infrastructure\\Infrastructure.csproj|solutionrelative:infrastructure\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|E:\\Projects\\Clinic\\Infrastructure\\Migrations\\20251016172302_kmff.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Infrastructure\\Migrations\\20251016172302_kmff.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8252FC65-6A4D-41A9-8134-1B434344D545}|Domain\\Domain.csproj|e:\\projects\\clinic\\domain\\premitives\\audited.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8252FC65-6A4D-41A9-8134-1B434344D545}|Domain\\Domain.csproj|solutionrelative:domain\\premitives\\audited.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8252FC65-6A4D-41A9-8134-1B434344D545}|Domain\\Domain.csproj|e:\\projects\\clinic\\domain\\premitives\\base.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8252FC65-6A4D-41A9-8134-1B434344D545}|Domain\\Domain.csproj|solutionrelative:domain\\premitives\\base.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8252FC65-6A4D-41A9-8134-1B434344D545}|Domain\\Domain.csproj|e:\\projects\\clinic\\domain\\domain.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{8252FC65-6A4D-41A9-8134-1B434344D545}|Domain\\Domain.csproj|solutionrelative:domain\\domain.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{82CCDFCE-A040-461D-BBF4-9BAFFC606724}|Infrastructure\\Infrastructure.csproj|e:\\projects\\clinic\\infrastructure\\validation\\auth\\registerdtovalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{82CCDFCE-A040-461D-BBF4-9BAFFC606724}|Infrastructure\\Infrastructure.csproj|solutionrelative:infrastructure\\validation\\auth\\registerdtovalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{82CCDFCE-A040-461D-BBF4-9BAFFC606724}|Infrastructure\\Infrastructure.csproj|e:\\projects\\clinic\\infrastructure\\validation\\auth\\forgotpassworddtovalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{82CCDFCE-A040-461D-BBF4-9BAFFC606724}|Infrastructure\\Infrastructure.csproj|solutionrelative:infrastructure\\validation\\auth\\forgotpassworddtovalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{82CCDFCE-A040-461D-BBF4-9BAFFC606724}|Infrastructure\\Infrastructure.csproj|e:\\projects\\clinic\\infrastructure\\validation\\auth\\addtoroledtovalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{82CCDFCE-A040-461D-BBF4-9BAFFC606724}|Infrastructure\\Infrastructure.csproj|solutionrelative:infrastructure\\validation\\auth\\addtoroledtovalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{97B7CE5F-1599-408B-93FE-A1D5D1F77A4F}|Clinic\\Clinic.csproj|e:\\projects\\clinic\\clinic\\controllers\\oauthcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{97B7CE5F-1599-408B-93FE-A1D5D1F77A4F}|Clinic\\Clinic.csproj|solutionrelative:clinic\\controllers\\oauthcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -113,7 +162,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 660,
-          "SelectedChildIndex": 8,
+          "SelectedChildIndex": 37,
           "Children": [
             {
               "$type": "Bookmark",
@@ -121,78 +170,188 @@
             },
             {
               "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ApiController.cs",
+              "DocumentMoniker": "E:\\Projects\\Clinic\\Clinic\\Controllers\\ApiController.cs",
+              "RelativeDocumentMoniker": "Clinic\\Controllers\\ApiController.cs",
+              "ToolTip": "E:\\Projects\\Clinic\\Clinic\\Controllers\\ApiController.cs",
+              "RelativeToolTip": "Clinic\\Controllers\\ApiController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-27T19:09:39.921Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 7,
-              "Title": "20251002013301_fj.cs",
-              "DocumentMoniker": "E:\\Projects\\Clinic\\Infrastructure\\Migrations\\20251002013301_fj.cs",
-              "RelativeDocumentMoniker": "Infrastructure\\Migrations\\20251002013301_fj.cs",
-              "ToolTip": "E:\\Projects\\Clinic\\Infrastructure\\Migrations\\20251002013301_fj.cs",
-              "RelativeToolTip": "Infrastructure\\Migrations\\20251002013301_fj.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Title": "20251027190655_initial.cs",
+              "DocumentMoniker": "E:\\Projects\\Clinic\\Infrastructure\\Migrations\\20251027190655_initial.cs",
+              "RelativeDocumentMoniker": "Infrastructure\\Migrations\\20251027190655_initial.cs",
+              "ToolTip": "E:\\Projects\\Clinic\\Infrastructure\\Migrations\\20251027190655_initial.cs",
+              "RelativeToolTip": "Infrastructure\\Migrations\\20251027190655_initial.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-02T01:33:02.489Z",
+              "WhenOpened": "2025-10-27T19:06:56.022Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
-              "Title": "WeatherForecast.cs",
-              "DocumentMoniker": "E:\\Projects\\Clinic\\Clinic\\WeatherForecast.cs",
-              "RelativeDocumentMoniker": "Clinic\\WeatherForecast.cs",
-              "ToolTip": "E:\\Projects\\Clinic\\Clinic\\WeatherForecast.cs",
-              "RelativeToolTip": "Clinic\\WeatherForecast.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "DocumentIndex": 12,
+              "Title": "20251016222230_sff.cs",
+              "DocumentMoniker": "E:\\Projects\\Clinic\\Infrastructure\\Migrations\\20251016222230_sff.cs",
+              "RelativeDocumentMoniker": "Infrastructure\\Migrations\\20251016222230_sff.cs",
+              "ToolTip": "E:\\Projects\\Clinic\\Infrastructure\\Migrations\\20251016222230_sff.cs",
+              "RelativeToolTip": "Infrastructure\\Migrations\\20251016222230_sff.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAQwAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-01T20:39:24.556Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": ".dockerignore",
-              "DocumentMoniker": "E:\\Projects\\Clinic\\.dockerignore",
-              "RelativeDocumentMoniker": ".dockerignore",
-              "ToolTip": "E:\\Projects\\Clinic\\.dockerignore",
-              "RelativeToolTip": ".dockerignore",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
-              "WhenOpened": "2025-10-01T20:39:23.163Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "docker-compose.dcproj",
-              "DocumentMoniker": "E:\\Projects\\Clinic\\docker-compose.dcproj",
-              "RelativeDocumentMoniker": "docker-compose.dcproj",
-              "ToolTip": "E:\\Projects\\Clinic\\docker-compose.dcproj",
-              "RelativeToolTip": "docker-compose.dcproj",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
-              "WhenOpened": "2025-10-01T20:32:21.033Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 14,
-              "Title": "ApplicationDbContext.cs",
-              "DocumentMoniker": "E:\\Projects\\Clinic\\Infrastructure\\Data\\ApplicationDbContext.cs",
-              "RelativeDocumentMoniker": "Infrastructure\\Data\\ApplicationDbContext.cs",
-              "ToolTip": "E:\\Projects\\Clinic\\Infrastructure\\Data\\ApplicationDbContext.cs",
-              "RelativeToolTip": "Infrastructure\\Data\\ApplicationDbContext.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-01T19:35:34.082Z"
+              "WhenOpened": "2025-10-16T22:22:30.451Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 13,
+              "Title": "UserConfig.cs",
+              "DocumentMoniker": "E:\\Projects\\Clinic\\Infrastructure\\Configurations\\UserConfig.cs",
+              "RelativeDocumentMoniker": "Infrastructure\\Configurations\\UserConfig.cs",
+              "ToolTip": "E:\\Projects\\Clinic\\Infrastructure\\Configurations\\UserConfig.cs",
+              "RelativeToolTip": "Infrastructure\\Configurations\\UserConfig.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAIwA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-16T22:18:51.72Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
               "Title": "MigrationExtensions.cs",
               "DocumentMoniker": "E:\\Projects\\Clinic\\Infrastructure\\ExtentionMethods\\MigrationExtensions.cs",
               "RelativeDocumentMoniker": "Infrastructure\\ExtentionMethods\\MigrationExtensions.cs",
               "ToolTip": "E:\\Projects\\Clinic\\Infrastructure\\ExtentionMethods\\MigrationExtensions.cs",
               "RelativeToolTip": "Infrastructure\\ExtentionMethods\\MigrationExtensions.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-01T19:13:21.051Z"
+              "WhenOpened": "2025-10-16T22:07:21.186Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "ClaimsPrincipalExtensions.cs",
+              "DocumentMoniker": "E:\\Projects\\Clinic\\Infrastructure\\ExtentionMethods\\ClaimsPrincipalExtensions.cs",
+              "RelativeDocumentMoniker": "Infrastructure\\ExtentionMethods\\ClaimsPrincipalExtensions.cs",
+              "ToolTip": "E:\\Projects\\Clinic\\Infrastructure\\ExtentionMethods\\ClaimsPrincipalExtensions.cs",
+              "RelativeToolTip": "Infrastructure\\ExtentionMethods\\ClaimsPrincipalExtensions.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-16T21:46:10.91Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "userDto.cs",
+              "DocumentMoniker": "E:\\Projects\\Clinic\\Application\\Dtos\\userDto.cs",
+              "RelativeDocumentMoniker": "Application\\Dtos\\userDto.cs",
+              "ToolTip": "E:\\Projects\\Clinic\\Application\\Dtos\\userDto.cs",
+              "RelativeToolTip": "Application\\Dtos\\userDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-16T21:36:04.874Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "IAccountService.cs",
+              "DocumentMoniker": "E:\\Projects\\Clinic\\Application\\Interfaces\\IAccountService.cs",
+              "RelativeDocumentMoniker": "Application\\Interfaces\\IAccountService.cs",
+              "ToolTip": "E:\\Projects\\Clinic\\Application\\Interfaces\\IAccountService.cs",
+              "RelativeToolTip": "Application\\Interfaces\\IAccountService.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAIwA4AAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-16T21:33:54.921Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "DoctorController.cs",
+              "DocumentMoniker": "E:\\Projects\\Clinic\\Clinic\\Controllers\\DoctorController.cs",
+              "RelativeDocumentMoniker": "Clinic\\Controllers\\DoctorController.cs",
+              "ToolTip": "E:\\Projects\\Clinic\\Clinic\\Controllers\\DoctorController.cs",
+              "RelativeToolTip": "Clinic\\Controllers\\DoctorController.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAQwBoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-16T21:23:46.221Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "MappingProfile.cs",
+              "DocumentMoniker": "E:\\Projects\\Clinic\\Application\\AutoMapper\\MappingProfile.cs",
+              "RelativeDocumentMoniker": "Application\\AutoMapper\\MappingProfile.cs",
+              "ToolTip": "E:\\Projects\\Clinic\\Application\\AutoMapper\\MappingProfile.cs",
+              "RelativeToolTip": "Application\\AutoMapper\\MappingProfile.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-16T21:05:58.804Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "Application.csproj",
+              "DocumentMoniker": "E:\\Projects\\Clinic\\Application\\Application.csproj",
+              "RelativeDocumentMoniker": "Application\\Application.csproj",
+              "ToolTip": "E:\\Projects\\Clinic\\Application\\Application.csproj",
+              "RelativeToolTip": "Application\\Application.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-10-16T21:05:37.989Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "DoctorDto.cs",
+              "DocumentMoniker": "E:\\Projects\\Clinic\\Application\\Dtos\\DoctorDto.cs",
+              "RelativeDocumentMoniker": "Application\\Dtos\\DoctorDto.cs",
+              "ToolTip": "E:\\Projects\\Clinic\\Application\\Dtos\\DoctorDto.cs",
+              "RelativeToolTip": "Application\\Dtos\\DoctorDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-16T20:58:58.207Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "DoctorService.cs",
+              "DocumentMoniker": "E:\\Projects\\Clinic\\Infrastructure\\Services\\DoctorService.cs",
+              "RelativeDocumentMoniker": "Infrastructure\\Services\\DoctorService.cs",
+              "ToolTip": "E:\\Projects\\Clinic\\Infrastructure\\Services\\DoctorService.cs",
+              "RelativeToolTip": "Infrastructure\\Services\\DoctorService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-16T20:56:50.043Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "Infrastructure.csproj",
+              "DocumentMoniker": "E:\\Projects\\Clinic\\Infrastructure\\Infrastructure.csproj",
+              "RelativeDocumentMoniker": "Infrastructure\\Infrastructure.csproj",
+              "ToolTip": "E:\\Projects\\Clinic\\Infrastructure\\Infrastructure.csproj",
+              "RelativeToolTip": "Infrastructure\\Infrastructure.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-10-16T20:55:34.044Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "IDoctorServices.cs",
+              "DocumentMoniker": "E:\\Projects\\Clinic\\Application\\Interfaces\\IDoctorServices.cs",
+              "RelativeDocumentMoniker": "Application\\Interfaces\\IDoctorServices.cs",
+              "ToolTip": "E:\\Projects\\Clinic\\Application\\Interfaces\\IDoctorServices.cs",
+              "RelativeToolTip": "Application\\Interfaces\\IDoctorServices.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAgAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-16T18:47:59.161Z"
             },
             {
               "$type": "Document",
@@ -202,246 +361,281 @@
               "RelativeDocumentMoniker": "Infrastructure\\Seeding\\DefaultRoles.cs",
               "ToolTip": "E:\\Projects\\Clinic\\Infrastructure\\Seeding\\DefaultRoles.cs",
               "RelativeToolTip": "Infrastructure\\Seeding\\DefaultRoles.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAANAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-01T18:58:24.791Z",
+              "WhenOpened": "2025-10-16T17:41:08.922Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "docker-compose.yml",
-              "DocumentMoniker": "E:\\Projects\\Clinic\\docker-compose.yml",
-              "RelativeDocumentMoniker": "docker-compose.yml",
-              "ToolTip": "E:\\Projects\\Clinic\\docker-compose.yml",
-              "RelativeToolTip": "docker-compose.yml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003775|",
-              "WhenOpened": "2025-10-01T18:27:22.699Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Dockerfile",
-              "DocumentMoniker": "E:\\Projects\\Clinic\\Clinic\\Dockerfile",
-              "RelativeDocumentMoniker": "Clinic\\Dockerfile",
-              "ToolTip": "E:\\Projects\\Clinic\\Clinic\\Dockerfile",
-              "RelativeToolTip": "Clinic\\Dockerfile",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
-              "WhenOpened": "2025-10-01T18:26:56.492Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "launchSettings.json",
-              "DocumentMoniker": "E:\\Projects\\Clinic\\launchSettings.json",
-              "RelativeDocumentMoniker": "launchSettings.json",
-              "ToolTip": "E:\\Projects\\Clinic\\launchSettings.json",
-              "RelativeToolTip": "launchSettings.json",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAABAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2025-10-01T18:26:45.341Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 17,
-              "Title": "Microsoft.VisualStudio.Docker.Compose.targets",
-              "DocumentMoniker": "C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\MSBuild\\Sdks\\Microsoft.Docker.Sdk\\build\\Microsoft.VisualStudio.Docker.Compose.targets",
-              "ToolTip": "C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\MSBuild\\Sdks\\Microsoft.Docker.Sdk\\build\\Microsoft.VisualStudio.Docker.Compose.targets",
-              "ViewState": "AgIAAKMBAAAAAAAAAAAAALcBAAAEAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003801|",
-              "WhenOpened": "2025-10-01T16:56:23.131Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 15,
-              "Title": "Infrastructure.csproj",
-              "DocumentMoniker": "E:\\Projects\\Clinic\\Infrastructure\\Infrastructure.csproj",
-              "RelativeDocumentMoniker": "Infrastructure\\Infrastructure.csproj",
-              "ToolTip": "E:\\Projects\\Clinic\\Infrastructure\\Infrastructure.csproj",
-              "RelativeToolTip": "Infrastructure\\Infrastructure.csproj",
+              "DocumentIndex": 30,
+              "Title": "20251016172302_kmff.cs",
+              "DocumentMoniker": "E:\\Projects\\Clinic\\Infrastructure\\Migrations\\20251016172302_kmff.cs",
+              "RelativeDocumentMoniker": "Infrastructure\\Migrations\\20251016172302_kmff.cs",
+              "ToolTip": "E:\\Projects\\Clinic\\Infrastructure\\Migrations\\20251016172302_kmff.cs",
+              "RelativeToolTip": "Infrastructure\\Migrations\\20251016172302_kmff.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2025-10-01T02:07:07.816Z",
-              "EditorCaption": ""
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-16T17:23:03.016Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "Clinic.csproj",
-              "DocumentMoniker": "E:\\Projects\\Clinic\\Clinic\\Clinic.csproj",
-              "RelativeDocumentMoniker": "Clinic\\Clinic.csproj",
-              "ToolTip": "E:\\Projects\\Clinic\\Clinic\\Clinic.csproj",
-              "RelativeToolTip": "Clinic\\Clinic.csproj",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABwAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2025-10-01T02:07:01.062Z",
-              "EditorCaption": ""
+              "DocumentIndex": 14,
+              "Title": "Seed.cs",
+              "DocumentMoniker": "E:\\Projects\\Clinic\\Infrastructure\\Seeding\\Seed.cs",
+              "RelativeDocumentMoniker": "Infrastructure\\Seeding\\Seed.cs",
+              "ToolTip": "E:\\Projects\\Clinic\\Infrastructure\\Seeding\\Seed.cs",
+              "RelativeToolTip": "Infrastructure\\Seeding\\Seed.cs",
+              "ViewState": "AgIAABkAAAAAAAAAAAAQwB4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-16T15:42:15.173Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "DoctorConfig.cs",
+              "DocumentMoniker": "E:\\Projects\\Clinic\\Infrastructure\\Configurations\\DoctorConfig.cs",
+              "RelativeDocumentMoniker": "Infrastructure\\Configurations\\DoctorConfig.cs",
+              "ToolTip": "E:\\Projects\\Clinic\\Infrastructure\\Configurations\\DoctorConfig.cs",
+              "RelativeToolTip": "Infrastructure\\Configurations\\DoctorConfig.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-16T14:03:48.142Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "ApplicationDbContext.cs",
+              "DocumentMoniker": "E:\\Projects\\Clinic\\Infrastructure\\Data\\ApplicationDbContext.cs",
+              "RelativeDocumentMoniker": "Infrastructure\\Data\\ApplicationDbContext.cs",
+              "ToolTip": "E:\\Projects\\Clinic\\Infrastructure\\Data\\ApplicationDbContext.cs",
+              "RelativeToolTip": "Infrastructure\\Data\\ApplicationDbContext.cs",
+              "ViewState": "AgIAADEAAAAAAAAAAAAwwDIAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-16T13:59:53.386Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 9,
-              "Title": "appsettings.json",
-              "DocumentMoniker": "E:\\Projects\\Clinic\\Clinic\\appsettings.json",
-              "RelativeDocumentMoniker": "Clinic\\appsettings.json",
-              "ToolTip": "E:\\Projects\\Clinic\\Clinic\\appsettings.json",
-              "RelativeToolTip": "Clinic\\appsettings.json",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2025-10-01T01:28:33.615Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 10,
-              "Title": "ServiceCollectionExtensions.cs",
-              "DocumentMoniker": "E:\\Projects\\Clinic\\Infrastructure\\ExtentionMethods\\ServiceCollectionExtensions.cs",
-              "RelativeDocumentMoniker": "Infrastructure\\ExtentionMethods\\ServiceCollectionExtensions.cs",
-              "ToolTip": "E:\\Projects\\Clinic\\Infrastructure\\ExtentionMethods\\ServiceCollectionExtensions.cs",
-              "RelativeToolTip": "Infrastructure\\ExtentionMethods\\ServiceCollectionExtensions.cs",
-              "ViewState": "AgIAAEMAAAAAAAAAAAAuwGgAAAAAAAAAAAAAAA==",
+              "Title": "User.cs",
+              "DocumentMoniker": "E:\\Projects\\Clinic\\Domain\\Entities\\User.cs",
+              "RelativeDocumentMoniker": "Domain\\Entities\\User.cs",
+              "ToolTip": "E:\\Projects\\Clinic\\Domain\\Entities\\User.cs",
+              "RelativeToolTip": "Domain\\Entities\\User.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-01T01:26:29.022Z"
+              "WhenOpened": "2025-10-16T13:59:28.39Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 28,
+              "Title": "Category.cs",
+              "DocumentMoniker": "E:\\Projects\\Clinic\\Domain\\Entities\\Category.cs",
+              "RelativeDocumentMoniker": "Domain\\Entities\\Category.cs",
+              "ToolTip": "E:\\Projects\\Clinic\\Domain\\Entities\\Category.cs",
+              "RelativeToolTip": "Domain\\Entities\\Category.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-16T13:53:42.603Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "Audited.cs",
+              "DocumentMoniker": "E:\\Projects\\Clinic\\Domain\\Premitives\\Audited.cs",
+              "RelativeDocumentMoniker": "Domain\\Premitives\\Audited.cs",
+              "ToolTip": "E:\\Projects\\Clinic\\Domain\\Premitives\\Audited.cs",
+              "RelativeToolTip": "Domain\\Premitives\\Audited.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-16T13:31:43.203Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "Base.cs",
+              "DocumentMoniker": "E:\\Projects\\Clinic\\Domain\\Premitives\\Base.cs",
+              "RelativeDocumentMoniker": "Domain\\Premitives\\Base.cs",
+              "ToolTip": "E:\\Projects\\Clinic\\Domain\\Premitives\\Base.cs",
+              "RelativeToolTip": "Domain\\Premitives\\Base.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-16T13:30:26.435Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "Domain.csproj",
+              "DocumentMoniker": "E:\\Projects\\Clinic\\Domain\\Domain.csproj",
+              "RelativeDocumentMoniker": "Domain\\Domain.csproj",
+              "ToolTip": "E:\\Projects\\Clinic\\Domain\\Domain.csproj",
+              "RelativeToolTip": "Domain\\Domain.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAABkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-10-16T13:29:22.742Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "Doctor.cs",
+              "DocumentMoniker": "E:\\Projects\\Clinic\\Domain\\Entities\\Doctor.cs",
+              "RelativeDocumentMoniker": "Domain\\Entities\\Doctor.cs",
+              "ToolTip": "E:\\Projects\\Clinic\\Domain\\Entities\\Doctor.cs",
+              "RelativeToolTip": "Domain\\Entities\\Doctor.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAxwB0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-16T13:29:00.967Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "RegisterDto.cs",
+              "DocumentMoniker": "E:\\Projects\\Clinic\\Application\\Dtos\\RegisterDto.cs",
+              "RelativeDocumentMoniker": "Application\\Dtos\\RegisterDto.cs",
+              "ToolTip": "E:\\Projects\\Clinic\\Application\\Dtos\\RegisterDto.cs",
+              "RelativeToolTip": "Application\\Dtos\\RegisterDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-09T22:26:25.735Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "RegisterDtoValidator.cs",
+              "DocumentMoniker": "E:\\Projects\\Clinic\\Infrastructure\\Validation\\Auth\\RegisterDtoValidator.cs",
+              "RelativeDocumentMoniker": "Infrastructure\\Validation\\Auth\\RegisterDtoValidator.cs",
+              "ToolTip": "E:\\Projects\\Clinic\\Infrastructure\\Validation\\Auth\\RegisterDtoValidator.cs",
+              "RelativeToolTip": "Infrastructure\\Validation\\Auth\\RegisterDtoValidator.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAABBAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-09T22:19:54.677Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "ForgotPasswordDtoValidator.cs",
+              "DocumentMoniker": "E:\\Projects\\Clinic\\Infrastructure\\Validation\\Auth\\ForgotPasswordDtoValidator.cs",
+              "RelativeDocumentMoniker": "Infrastructure\\Validation\\Auth\\ForgotPasswordDtoValidator.cs",
+              "ToolTip": "E:\\Projects\\Clinic\\Infrastructure\\Validation\\Auth\\ForgotPasswordDtoValidator.cs",
+              "RelativeToolTip": "Infrastructure\\Validation\\Auth\\ForgotPasswordDtoValidator.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-09T22:19:51.621Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "AddToRoleDtoValidator.cs",
+              "DocumentMoniker": "E:\\Projects\\Clinic\\Infrastructure\\Validation\\Auth\\AddToRoleDtoValidator.cs",
+              "RelativeDocumentMoniker": "Infrastructure\\Validation\\Auth\\AddToRoleDtoValidator.cs",
+              "ToolTip": "E:\\Projects\\Clinic\\Infrastructure\\Validation\\Auth\\AddToRoleDtoValidator.cs",
+              "RelativeToolTip": "Infrastructure\\Validation\\Auth\\AddToRoleDtoValidator.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-09T22:18:10.71Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
               "Title": "Program.cs",
               "DocumentMoniker": "E:\\Projects\\Clinic\\Clinic\\Program.cs",
               "RelativeDocumentMoniker": "Clinic\\Program.cs",
               "ToolTip": "E:\\Projects\\Clinic\\Clinic\\Program.cs",
               "RelativeToolTip": "Clinic\\Program.cs",
-              "ViewState": "AgIAACUAAAAAAAAAAAAkwC0AAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAIAAAAAAAAAAADwvxMAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-01T01:26:22.995Z",
+              "WhenOpened": "2025-10-09T22:04:35.742Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
-              "Title": "appsettings.Development.json",
-              "DocumentMoniker": "E:\\Projects\\Clinic\\Clinic\\appsettings.Development.json",
-              "RelativeDocumentMoniker": "Clinic\\appsettings.Development.json",
-              "ToolTip": "E:\\Projects\\Clinic\\Clinic\\appsettings.Development.json",
-              "RelativeToolTip": "Clinic\\appsettings.Development.json",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2025-09-29T23:41:51.995Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 20,
-              "Title": "ClinicAPI.postman_collection (3).json",
-              "DocumentMoniker": "C:\\Users\\Yousef_zydan\\Downloads\\ClinicAPI.postman_collection (3).json",
-              "ToolTip": "C:\\Users\\Yousef_zydan\\Downloads\\ClinicAPI.postman_collection (3).json",
-              "ViewState": "AgIAAEMAAAAAAAAAAABhwK8AAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2025-09-26T18:41:39.714Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 21,
-              "Title": "ClinicAPI.postman_collection (2).json",
-              "DocumentMoniker": "C:\\Users\\Yousef_zydan\\Downloads\\ClinicAPI.postman_collection (2).json",
-              "ToolTip": "C:\\Users\\Yousef_zydan\\Downloads\\ClinicAPI.postman_collection (2).json",
-              "ViewState": "AgIAAB8AAAAAAAAAAABhwEYAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2025-09-26T18:40:18.022Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 22,
-              "Title": "ClinicAPI.postman_collection.json",
-              "DocumentMoniker": "C:\\Users\\Yousef_zydan\\Desktop\\ClinicAPI.postman_collection.json",
-              "ToolTip": "C:\\Users\\Yousef_zydan\\Desktop\\ClinicAPI.postman_collection.json",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAA1AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2025-09-26T18:38:53.608Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 19,
-              "Title": "ApiController.cs",
-              "DocumentMoniker": "E:\\Projects\\Clinic\\Clinic\\Controllers\\ApiController.cs",
-              "RelativeDocumentMoniker": "Clinic\\Controllers\\ApiController.cs",
-              "ToolTip": "E:\\Projects\\Clinic\\Clinic\\Controllers\\ApiController.cs",
-              "RelativeToolTip": "Clinic\\Controllers\\ApiController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-26T18:30:46.296Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 23,
+              "DocumentIndex": 37,
               "Title": "OAuthController.cs",
               "DocumentMoniker": "E:\\Projects\\Clinic\\Clinic\\Controllers\\OAuthController.cs",
               "RelativeDocumentMoniker": "Clinic\\Controllers\\OAuthController.cs",
               "ToolTip": "E:\\Projects\\Clinic\\Clinic\\Controllers\\OAuthController.cs",
               "RelativeToolTip": "Clinic\\Controllers\\OAuthController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAIBJwBwAAAAIAAAAAAAAAA==",
+              "ViewState": "AgIAABgAAAAAAAAAAAAYwBwAAAAIAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-26T18:30:01.057Z"
+              "WhenOpened": "2025-10-09T22:01:49.071Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 24,
-              "Title": "IAccountService.cs",
-              "DocumentMoniker": "E:\\Projects\\Clinic\\Application\\Interfaces\\IAccountService.cs",
-              "RelativeDocumentMoniker": "Application\\Interfaces\\IAccountService.cs",
-              "ToolTip": "E:\\Projects\\Clinic\\Application\\Interfaces\\IAccountService.cs",
-              "RelativeToolTip": "Application\\Interfaces\\IAccountService.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAFAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-25T01:10:10.967Z"
+              "DocumentIndex": 2,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "E:\\Projects\\Clinic\\Clinic\\appsettings.json",
+              "RelativeDocumentMoniker": "Clinic\\appsettings.json",
+              "ToolTip": "E:\\Projects\\Clinic\\Clinic\\appsettings.json",
+              "RelativeToolTip": "Clinic\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-10-09T22:00:27.611Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 25,
-              "Title": "UpdateRolesDto.cs",
-              "DocumentMoniker": "E:\\Projects\\Clinic\\Application\\Dtos\\UpdateRolesDto.cs",
-              "RelativeDocumentMoniker": "Application\\Dtos\\UpdateRolesDto.cs",
-              "ToolTip": "E:\\Projects\\Clinic\\Application\\Dtos\\UpdateRolesDto.cs",
-              "RelativeToolTip": "Application\\Dtos\\UpdateRolesDto.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "DocumentIndex": 21,
+              "Title": "Jwt.cs",
+              "DocumentMoniker": "E:\\Projects\\Clinic\\Infrastructure\\Services\\Jwt.cs",
+              "RelativeDocumentMoniker": "Infrastructure\\Services\\Jwt.cs",
+              "ToolTip": "E:\\Projects\\Clinic\\Infrastructure\\Services\\Jwt.cs",
+              "RelativeToolTip": "Infrastructure\\Services\\Jwt.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAARAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-25T01:09:34.511Z"
+              "WhenOpened": "2025-10-09T21:59:53.548Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 16,
+              "DocumentIndex": 15,
+              "Title": "ServiceCollectionExtensions.cs",
+              "DocumentMoniker": "E:\\Projects\\Clinic\\Infrastructure\\ExtentionMethods\\ServiceCollectionExtensions.cs",
+              "RelativeDocumentMoniker": "Infrastructure\\ExtentionMethods\\ServiceCollectionExtensions.cs",
+              "ToolTip": "E:\\Projects\\Clinic\\Infrastructure\\ExtentionMethods\\ServiceCollectionExtensions.cs",
+              "RelativeToolTip": "Infrastructure\\ExtentionMethods\\ServiceCollectionExtensions.cs",
+              "ViewState": "AgIAAE0AAAAAAAAAAAAQwGoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-09T21:59:40.672Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
               "Title": "AccountService.cs",
               "DocumentMoniker": "E:\\Projects\\Clinic\\Infrastructure\\Services\\AccountService.cs",
               "RelativeDocumentMoniker": "Infrastructure\\Services\\AccountService.cs",
               "ToolTip": "E:\\Projects\\Clinic\\Infrastructure\\Services\\AccountService.cs",
               "RelativeToolTip": "Infrastructure\\Services\\AccountService.cs",
-              "ViewState": "AgIAAAkAAAAAAAAAAAAYwEEAAAAMAAAAAAAAAA==",
+              "ViewState": "AgIAAIoAAAAAAAAAAAAgwLYAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-25T00:14:50.986Z"
+              "WhenOpened": "2025-10-09T21:58:32.593Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 26,
-              "Title": "ClinicAPI.postman_collection.json",
-              "DocumentMoniker": "C:\\Users\\Yousef_zydan\\Downloads\\ClinicAPI.postman_collection.json",
-              "ToolTip": "C:\\Users\\Yousef_zydan\\Downloads\\ClinicAPI.postman_collection.json",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAARAAAAAAAAAA==",
+              "DocumentIndex": 0,
+              "Title": "appsettings.Development.json",
+              "DocumentMoniker": "E:\\Projects\\Clinic\\Clinic\\appsettings.Development.json",
+              "RelativeDocumentMoniker": "Clinic\\appsettings.Development.json",
+              "ToolTip": "E:\\Projects\\Clinic\\Clinic\\appsettings.Development.json",
+              "RelativeToolTip": "Clinic\\appsettings.Development.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACMAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2025-09-24T20:38:37.75Z"
+              "WhenOpened": "2025-10-09T21:47:05.604Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 18,
+              "DocumentIndex": 5,
               "Title": "UserController.cs",
               "DocumentMoniker": "E:\\Projects\\Clinic\\Clinic\\Controllers\\UserController.cs",
               "RelativeDocumentMoniker": "Clinic\\Controllers\\UserController.cs",
               "ToolTip": "E:\\Projects\\Clinic\\Clinic\\Controllers\\UserController.cs",
               "RelativeToolTip": "Clinic\\Controllers\\UserController.cs",
-              "ViewState": "AgIAABYAAAAAAAAAAAAQwBcAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAABDAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-24T20:31:35.306Z"
+              "WhenOpened": "2025-10-09T21:37:35.266Z",
+              "EditorCaption": ""
             }
           ]
         },

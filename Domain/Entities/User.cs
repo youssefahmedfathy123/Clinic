@@ -11,6 +11,12 @@ namespace Domain.Entities
         public Gender Gender { get; set; }
         public required string PhotoUrl { get; set; }
 
+
+
+        // Navigation Properties
+        public List<Doctor> Doctors { get; set; } = new();
+
+
     }
 }
 

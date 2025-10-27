@@ -1,5 +1,6 @@
 ﻿using Application.Dtos;
 using Application.Interfaces;
+using Infrastructure.Extensions;
 using Microsoft.AspNetCore.Authorization;
 using Microsoft.AspNetCore.Mvc;
 
@@ -39,6 +40,7 @@ namespace Clinic.Controllers
 
 
 
+
         [Authorize(Roles = "Admin")]
         [HttpPost("add-to-role")]
         public async Task<IActionResult> UpdateRolesDto([FromBody] UpdateRolesDto input)
@@ -63,6 +65,7 @@ namespace Clinic.Controllers
         }
 
 
+
         [HttpPost("reset-password")]
         public async Task<IActionResult> ResetPassword([FromBody] ResetPasswordDto input)
         {
@@ -72,6 +75,8 @@ namespace Clinic.Controllers
 
             return Ok("Password has been reset successfully");
         }
+
+
 
 
 
@@ -88,6 +93,9 @@ namespace Clinic.Controllers
         }
 
 
+
+
+
         [Authorize(Roles = "Admin")]
         [HttpPost("UpdateRoles")]
         public async Task<IActionResult> UpdateRoles([FromBody] UpdateRolesDto input)
@@ -99,6 +107,24 @@ namespace Clinic.Controllers
 
             return Ok(result.Data);
         }
+
+        [Authorize]
+        [HttpGet("profile")]
+        public async Task<ActionResult<userDto>> GetProfile()
+        {
+            var userId = User.GetUserId();
+
+            if (string.IsNullOrEmpty(userId))
+                return Unauthorized("User ID not found in claims.");
+
+            var profile = await _accountService.GetProfileInfo(userId);
+
+            if (profile == null)
+                return NotFound("User not found.");
+
+            return Ok(profile);
+        }
+
 
 
     }

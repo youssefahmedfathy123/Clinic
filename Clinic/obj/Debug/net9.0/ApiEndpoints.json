@@ -1,5 +1,47 @@
 [
   {
+    "ContainingType": "API.Controllers.DoctorController",
+    "Method": "Test",
+    "RelativePath": "api/Doctor",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "API.Controllers.DoctorController",
+    "Method": "GetDoctorsByCategory",
+    "RelativePath": "api/Doctor/by-category/{categoryId}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "categoryId",
+        "Type": "System.Guid",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "API.Controllers.DoctorController",
+    "Method": "GetDoctorsByName",
+    "RelativePath": "api/Doctor/by-name",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "name",
+        "Type": "System.String",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
     "ContainingType": "Clinic.Controllers.OAuthController",
     "Method": "GoogleResponse",
     "RelativePath": "api/OAuth/google-response",
@@ -85,6 +127,26 @@
   },
   {
     "ContainingType": "Clinic.Controllers.UserController",
+    "Method": "GetProfile",
+    "RelativePath": "api/User/profile",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": [
+      {
+        "Type": "Application.Dtos.userDto",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "Clinic.Controllers.UserController",
     "Method": "Register",
     "RelativePath": "api/User/Register",
     "HttpMethod": "POST",
@@ -134,6 +196,11 @@
       {
         "Name": "Photo",
         "Type": "Microsoft.AspNetCore.Http.IFormFile",
+        "IsRequired": false
+      },
+      {
+        "Name": "Phone",
+        "Type": "System.String",
         "IsRequired": false
       }
     ],

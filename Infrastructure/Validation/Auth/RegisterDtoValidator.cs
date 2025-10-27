@@ -18,7 +18,6 @@ namespace Application.Validators
             RuleFor(x => x.Email)
                 .NotEmpty().WithMessage("Email is required")
                 .EmailAddress().WithMessage("Invalid email address");
-
             RuleFor(x => x.UserName)
                 .NotEmpty().WithMessage("Username is required")
                 .Length(3, 20).WithMessage("Username must be between 3 and 20 characters");
@@ -38,7 +37,6 @@ namespace Application.Validators
             RuleFor(x => x.DateOfBirth)
                 .Must(d => d != default(DateTime)).WithMessage("Date of Birth is required")
                 .LessThan(DateTime.Now).WithMessage("Date of Birth must be in the past");
-
 
             RuleFor(x => x.Gender)
                 .IsInEnum().WithMessage("Gender is required");
