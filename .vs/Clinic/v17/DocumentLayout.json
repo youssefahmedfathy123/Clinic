@@ -178,8 +178,7 @@
               "RelativeToolTip": "Clinic\\Controllers\\ApiController.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-27T19:09:39.921Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-10-27T19:09:39.921Z"
             },
             {
               "$type": "Document",
@@ -275,8 +274,7 @@
               "RelativeToolTip": "Clinic\\Controllers\\DoctorController.cs",
               "ViewState": "AgIAAAYAAAAAAAAAAAAkwBkAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-16T21:23:46.221Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-10-16T21:23:46.221Z"
             },
             {
               "$type": "Document",
@@ -538,7 +536,7 @@
               "RelativeDocumentMoniker": "Clinic\\Program.cs",
               "ToolTip": "E:\\Projects\\Clinic\\Clinic\\Program.cs",
               "RelativeToolTip": "Clinic\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAADAAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-10-09T22:04:35.742Z",
               "EditorCaption": ""
@@ -553,8 +551,7 @@
               "RelativeToolTip": "Clinic\\Controllers\\OAuthController.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAB8AAAAIAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-09T22:01:49.071Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-10-09T22:01:49.071Z"
             },
             {
               "$type": "Document",
@@ -566,8 +563,7 @@
               "RelativeToolTip": "Clinic\\appsettings.json",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2025-10-09T22:00:27.611Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-10-09T22:00:27.611Z"
             },
             {
               "$type": "Document",
@@ -615,8 +611,7 @@
               "RelativeToolTip": "Clinic\\appsettings.Development.json",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAACIAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2025-10-09T21:47:05.604Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-10-09T21:47:05.604Z"
             },
             {
               "$type": "Document",
@@ -628,8 +623,7 @@
               "RelativeToolTip": "Clinic\\Controllers\\UserController.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-09T21:37:35.266Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-10-09T21:37:35.266Z"
             }
           ]
         },

@@ -6,7 +6,6 @@ using MyProject.Infrastructure.Extensions;
 
 var builder = WebApplication.CreateBuilder(args);
 
-// Add services
 builder.Services.AddControllers();
 builder.Services.AddServices(builder.Configuration);
 
@@ -17,7 +16,6 @@ builder.Services.AddHttpContextAccessor();
 
 var app = builder.Build();
 
-// Database Seeding
 using (var scope = app.Services.CreateScope())
 {
     var services = scope.ServiceProvider;
@@ -29,17 +27,16 @@ using (var scope = app.Services.CreateScope())
     await ApplicationSeeder.SeedAsync(context, userManager);
 }
 
-// Enable Swagger Everywhere ✅
 app.UseSwagger();
 app.UseSwaggerUI(c =>
 {
     c.SwaggerEndpoint("/swagger/v1/swagger.json", "MyProject API V1");
-    c.RoutePrefix = string.Empty; // Swagger على الرoot مباشرة
+    c.RoutePrefix = string.Empty; 
 });
 
 app.UseHttpsRedirection();
 
-// Authentication ثم Authorization لو عندك Auth
+
 app.UseAuthentication();
 app.UseAuthorization();
 
