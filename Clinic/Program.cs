@@ -15,19 +15,9 @@ builder.Services.AddSwaggerGen();
 
 builder.Services.AddHttpContextAccessor();
 
-
-
 var app = builder.Build();
 
-//app.ApplyMigrations();
-
-//using (var scope = app.Services.CreateScope())
-//{
-//    var db = scope.ServiceProvider.GetRequiredService<ApplicationDbContext>();
-//    db.Database.Migrate();
-//}
-
-
+// Database Seeding
 using (var scope = app.Services.CreateScope())
 {
     var services = scope.ServiceProvider;
@@ -37,19 +27,22 @@ using (var scope = app.Services.CreateScope())
 
     await DefaultRolesAndUsersSeeder.SeedAsync(roleManager, userManager);
     await ApplicationSeeder.SeedAsync(context, userManager);
-
 }
 
-// Swagger config
-if (app.Environment.IsDevelopment())
+// Enable Swagger Everywhere ✅
+app.UseSwagger();
+app.UseSwaggerUI(c =>
 {
-    app.UseSwagger();
-    app.UseSwaggerUI();
-}
-
+    c.SwaggerEndpoint("/swagger/v1/swagger.json", "MyProject API V1");
+    c.RoutePrefix = string.Empty; // Swagger على الرoot مباشرة
+});
 
 app.UseHttpsRedirection();
+
+// Authentication ثم Authorization لو عندك Auth
+app.UseAuthentication();
 app.UseAuthorization();
+
 app.MapControllers();
 
 app.Run();
